@@ -15,7 +15,6 @@ categories = [
     "themes",
     "syntax",
 ]
-series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 images = [
     "markdown-syntax.jpg",
