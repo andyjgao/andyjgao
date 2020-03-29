@@ -1,5 +1,5 @@
 baseURL = "https://andyjgao.com/"
-title = "Hugo Themes"
+title = "AndyJGao"
 copyright = "© Andy J. Gao, 2020"
 paginate = 2
 languageCode = "en"
@@ -31,7 +31,7 @@ disableKinds = ["taxonomyTerm"]
 [taxonomies]
 category = "categories"
 tag = "tags"
-series = "series"
+author = ""
 
 [params]
   author = "Andy J Gao"
