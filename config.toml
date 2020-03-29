@@ -27,11 +27,10 @@ theme = "hugo-theme-chunky-poster"
   #   url = "/about/"
   #   weight = 3
 
-disableKinds = ["taxonomyTerm"]
 [taxonomies]
 category = "categories"
 tag = "tags"
-author = ""
+author="authors"
 
 [params]
   author = "Andy J Gao"
