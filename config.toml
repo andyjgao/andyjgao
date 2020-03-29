@@ -27,17 +27,17 @@ theme = "hugo-theme-chunky-poster"
   #   url = "/about/"
   #   weight = 3
 
+disableKinds = ["taxonomyTerm"]
 [taxonomies]
 category = "categories"
 tag = "tags"
 series = "series"
-author = "authors"
 
 [params]
-  author = "Hugo Authors"
+  author = "Andy J Gao"
   description = "Lorem ipsum dolor sit amet."
   homepageImage = "/images/prof_pic.jpg"
-  share = true
+  share = false
   showLanguageSwitcher = false
 
   # Custom CSS and JS. Relative to /static/css and /static/js respectively.
