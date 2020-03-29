@@ -30,7 +30,6 @@ theme = "hugo-theme-chunky-poster"
 [taxonomies]
 category = "categories"
 tag = "tags"
-author="authors"
 
 [params]
   author = "Andy J Gao"

@@ -1,7 +1,4 @@
 +++
-authors = [
-    "Hugo Authors",
-]
 title = "Markdown Syntax Guide"
 date = "2019-03-11"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
@@ -10,10 +7,6 @@ tags = [
     "css",
     "html",
     "themes",
-]
-categories = [
-    "themes",
-    "syntax",
 ]
 aliases = ["migrate-from-jekyl"]
 images = [
