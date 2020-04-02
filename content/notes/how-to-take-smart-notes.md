@@ -1,5 +1,5 @@
 +++
-aliases = ["this-is-a-test"]
+aliases = ["smart-notes"]
 date = 2020-03-29T04:00:00Z
 description = "An amazing book for those trying to improve their note-taking skills. If you've ever had trouble recalling the main concepts of a book to a friend when they ask about the key takeaways, this book is for you."
 images = ["/images/how-to-take-smart-notes.jpg"]
