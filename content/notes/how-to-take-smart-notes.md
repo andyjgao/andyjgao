@@ -8,7 +8,7 @@ title = "How to Take Smart Notes"
 amazon_paper="https://amzn.to/2Jze4O6"
 amazon_kindle="https://amzn.to/3bKiRbM"
 amazon_audio=""
-rating = 4.5
+rating = 6
 
 +++
 ## Review
