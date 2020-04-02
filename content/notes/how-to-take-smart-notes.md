@@ -5,7 +5,9 @@ description = "An amazing book for those trying to improve their note-taking ski
 images = ["/images/how-to-take-smart-notes.jpg"]
 tags = ["note taking", "education"]
 title = "How to Take Smart Notes"
-amazon="https://www.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y"
+amazon_paper="https://amzn.to/2Jze4O6"
+amazon_kindle="https://amzn.to/3bKiRbM"
+amazon_audio=""
 rating = 4.5
 
 +++
