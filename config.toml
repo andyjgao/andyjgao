@@ -1,6 +1,6 @@
 baseURL = "https://andyjgao.com/"
 title = "AndyJGao"
-copyright = "© Andy J. Gao, 2020"
+copyright = "Copyright © 2020, Andy J. Gao; all rights reserved."
 paginate = 2
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -33,7 +33,7 @@ tag = "tags"
 
 [params]
   author = "Andy J Gao"
-  description = "Lorem ipsum dolor sit amet."
+  description = "I'm Asian. I write about things that interest me."
   homepageImage = "/images/prof_pic.jpg"
   share = false
   showLanguageSwitcher = false
