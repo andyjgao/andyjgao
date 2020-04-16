@@ -1,7 +1,7 @@
 +++
 aliases = ["this-is-a-test"]
 date = 2020-03-29T04:00:00Z
-description = "Thest"
+description = "Are you reading this article while you should be working? Here's how meditation can help."
 images = ["/images/meditation.jfif"]
 tags = ["Productivity"]
 title = "Why I Love Meditation (as a former skeptic)"
@@ -51,12 +51,12 @@ The main problem causing lack of social awareness is the inability to be in the 
 
 If not for anything else, Meditation [helps with happiness](https://www.forbes.com/sites/jeenacho/2016/03/05/increase-happiness-and-sense-of-well-being-through-meditation/#59a058a22adb). Through meditation, you are able to [thicken the area of your brain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004979/) that copes with stress and difficult situations, which strengthens your emotional stability and overall emotional health.
 
-## How do you Meditate?
+## How Do You Meditate?
 
 So now that we've discussed _what meditation is_ and _why you should meditate_, the only thing left is _how to do it_. The practice of deliberate mindfulness is very simple to get started and all it requires is 5-10 minutes of your day. Here are the steps:
 
-1. **Find a comfortable spot and sit down.** At this time, you should take a couple of deep breathes and relax your mind and body.
+1. **Find a comfortable spot and sit down.** At this time, you should take a couple of deep breaths and relax your mind and body.
 2. **Find an object to focus your mind on.** This could be your breath or even a pebble. If you choose your breath, I recommend closing your eyes to remove visible distractions around you.
-3. **As you focus, you may notice that your mind wanders.** This is completely okay--simply just note it and refocus your mind. The more you do this, the longer you will be able to focus without your mind wandering.
+3. **As you focus, you may notice that your mind wanders.** This is completely okay--simply note it and refocus your mind. The more you do this, the longer you will be able to focus without your mind wandering.
 
-Meditating is easy, mastering it is hard. Thus, I highly recommend using [Headspace](https://www.headspace.com/ "url: https://www.headspace.com/"). (I am not sponsored in any way, I just love the app). It provides guided meditations that keep you on track with the steps mentioned above and allows you to smoothly transition from a newbie to a more advanced meditation.
+Meditating is easy, mastering it is hard. Thus, I suggest using [Headspace](https://www.headspace.com/ "url: https://www.headspace.com/"). (I am not sponsored in any way, I just love the app). It provides guided meditations that keep you on track with the steps mentioned above and allows you to smoothly transition from a newbie to a more advanced meditation.
