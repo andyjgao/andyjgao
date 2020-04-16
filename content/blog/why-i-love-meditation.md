@@ -1,9 +1,9 @@
 +++
-aliases = ["this-is-a-test"]
+aliases = ["meditation-is-nice"]
 date = 2020-03-29T04:00:00Z
 description = "Are you reading this article while you should be working? Here's how meditation can help."
 draft = true
-images = ["/images/meditation.jpg.jfif"]
+images = ["/images/meditation.jpg", "/images/meditation.jpg.jfif"]
 tags = ["Meditation", "Productivity"]
 title = "Why I Love Meditation (as a former skeptic)"
 
