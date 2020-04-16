@@ -1,11 +1,11 @@
 +++
 aliases = ["meditation-is-nice"]
-date = 2020-03-29T04:00:00Z
+date = 2020-04-16T04:00:00Z
 description = "Are you reading this article while you should be working? Here's how meditation can help."
 draft = true
 images = ["/images/meditation.jpg", "/images/meditation.jpg.jfif"]
 tags = ["Meditation", "Productivity"]
-title = "Why I Love Meditation (as a former skeptic)"
+title = "Why I Love Meditation"
 
 +++
 Are you reading this article while you should be working? Distracted by your phone again while studying?
@@ -32,7 +32,9 @@ This experience made me throw away any preconceived notions and jump-start my jo
 
 ## Benefits of Meditation
 
-While I can continue to harp on the benefits through my personal anecdotes, I found it more convincing if I proved it through scientific studies as well. Meditation will help you develop ...
+While I can continue to harp on the benefits through my personal anecdotes, I found it more convincing if I proved it through scientific studies as well. 
+
+Meditation will help you develop ...
 
 ### Improved Focus and School Performance
 
