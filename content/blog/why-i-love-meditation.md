@@ -2,6 +2,7 @@
 aliases = ["this-is-a-test"]
 date = 2020-03-29T04:00:00Z
 description = "Are you reading this article while you should be working? Here's how meditation can help."
+draft = true
 images = ["/images/meditation.jfif"]
 tags = ["Productivity"]
 title = "Why I Love Meditation (as a former skeptic)"
