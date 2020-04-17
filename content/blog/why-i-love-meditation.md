@@ -9,7 +9,7 @@ title = "Why I Love Meditation"
 +++
 Are you reading this article while you should be working? Distracted by your phone again while studying?
 
-Chances are that if you aren't doing it now, you've definitely done it before in the past. Luckily, there's a proven method to mitigate this problem (and no it's not Adderall).
+Chances are that if you aren't doing it now, you've done it before. Luckily, there's a proven method to mitigate this problem (and no it's not Adderall).
 
 The answer lies in **Meditation**.
 
@@ -17,41 +17,41 @@ The answer lies in **Meditation**.
 
 While there are many ways to define meditation, in its essence, the practice of meditation is a way to exercise the mind--concentrating your focus on something small (breath, pebble, movement of grass), noting when your mind wanders and letting go. Just as physical exercise increases the capabilities of the body, mental exercise increases the capability of the mind's awareness, attention, clarity, etc.
 
-At first, I was skeptical of this practice. Can closing your eyes and saying "om" for a fixed duration really increase your ability to focus? It seemed rather unlikely. For the longest time, I was in this pool as well. _There was no way meditation would work_.
+At first, I was skeptical of this practice. Can closing your eyes and saying "om" for a fixed duration really increase your ability to focus? It seemed rather unlikely. _There is no way meditation works_.
 
-This was not until my university started offering a free subscription for Head Space, a meditation app. It advertised itself as an app to _help_ _people sleep better, stress less and focus more in just 5 minutes_.
+This was not until my university started offering a free subscription for Headspace, a meditation app. It advertised itself as an app to _help_ _people sleep better, stress less and focus more in just 5 minutes_.
 
-I decided to give it a shot spending 5 minutes each day for a week. At worse, I wasted 5 minutes every day which I already did while watching YouTube. At best, I could gain the benefits promoted by [Headspace]().
+I decided to give it a shot. At worse, I wasted 5 minutes each day which I already did scrolling through YouTube. At best, I could gain the benefits promoted by [Headspace]().
 
 After a week, I noticed my mind becoming calmer.
 
-After a month, I was blown away.
+After a month, I was able to finish assignments without picking up my phone once.
 
-This experience made me throw away any preconceived notions and jump-start my journey into meditation. After a year and a half, I noticed some distinguishable benefits.
+This experience made me throw away any preconceived notions and jump-start my journey into meditation.
 
 ## Benefits of Meditation
 
-While I can continue to harp on the benefits through my personal anecdotes, I found it more convincing if I proved it through scientific studies as well. 
+While I can continue to harp on the benefits through my anecdotes, I find it more convincing if I prove it through scientific studies as well.
 
-Meditation will help you develop ...
+Meditation will help you ...
 
-### Improved Focus and School Performance
+### Improve Focus and School Performance
 
-A [study]() conducted by UC Davis showed that after meditation, subjects were able to maintain focus even during monotonous tasks. This means no more checking Instagram every five minutes while pulling your all-nighter and actually sleeping at a godly hour.
+A [study]() conducted by UC Davis showed that after meditation, subjects were able to maintain focus even during monotonous tasks. This means no more checking Instagram every five minutes while pulling your all-nighter and sleeping at a godly hour.
 
 Being able to focus translates to the classroom as well. [Meditating for even just six minutes](https://www.sciencedaily.com/releases/2013/04/130409131811.htm) before a lecture has shown to boost test scores as it leads to better focus and retention throughout the class.
 
-### Improved Sleep
+### Improve Sleep
 
 Racing thoughts are a common occurrence for those who deal with insomnia. Mindfulness training via meditation helps provide a way to "turn off" the noise in the mind by focusing on the present, leading to [faster and higher quality sleep](https://www.health.harvard.edu/blog/mindfulness-meditation-helps-fight-insomnia-improves-sleep-201502187726). For long term meditators, meditation can even [reduce total sleep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2919439/) time needed to function at a high level.
 
-### Improved Social/Self-Awareness
+### Improve Social/Self-Awareness
 
-The main problem causing lack of social awareness is the inability to be in the present due to a myriad of issues -- anxiety, stress, etc. As a result, you become stuck in your head instead of focusing on a conversation or activity. With continual meditation, you are able to [increase the grey-matter density](https://journals.sagepub.com/doi/pdf/10.1177/1533210107311624) in the brain associated with awareness and compassion. This fortifies your ability to stay present and not get distracted by your negative emotions.
+The main problem causing lack of social awareness is the inability to be in the present due to a myriad of issues -- anxiety, stress, etc. As a result, you become stuck in your head instead of focusing on a conversation or activity. With continual meditation, you can [increase the grey-matter density](https://journals.sagepub.com/doi/pdf/10.1177/1533210107311624) in the brain associated with awareness and compassion. This fortifies your ability to stay present and not get distracted by your negative emotions.
 
-### Improved Happiness
+### Improve Happiness
 
-If not for anything else, Meditation [helps with happiness](https://www.forbes.com/sites/jeenacho/2016/03/05/increase-happiness-and-sense-of-well-being-through-meditation/#59a058a22adb). Through meditation, you are able to [thicken the area of your brain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004979/) that copes with stress and difficult situations, which strengthens your emotional stability and overall emotional health.
+If not for anything else, Meditation [helps with happiness](https://www.forbes.com/sites/jeenacho/2016/03/05/increase-happiness-and-sense-of-well-being-through-meditation/#59a058a22adb). Through meditation, you can [thicken the area of your brain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004979/) that copes with stress and difficult situations, which strengthens your emotional stability and overall emotional health.
 
 ## How Do You Meditate?
 
