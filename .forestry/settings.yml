@@ -5,9 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: content/privacy.md
+  path: content/privacy
   label: Privacy Policy
-  match: "**/*"
 - type: directory
   path: content/notes
   label: Book Notes
