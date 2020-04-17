@@ -2,7 +2,7 @@
 title = "FAQ"
 hidden = "true"
 +++
-My book notes are always growing! As I finish reading each book, I will upload my them to my [notes page](/notes/). The following is a guide and some commonly asked questions on how to use these notes.
+My book notes are always growing! As I finish reading each book, I will upload them to my [notes page](/notes/). The following is a guide and some commonly asked questions on how to use these notes.
 
 ### Why did you make a notes page?
 When I tell people I like to read, the first thing they ask for are book recommendations. By making this notes page, I will be able to simply refer them here.
