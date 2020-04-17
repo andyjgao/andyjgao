@@ -29,6 +29,9 @@ fields:
 - type: text
   name: amazon_audio
   label: amazon_audio
-- type: number
+- type: text
   name: rating
   label: rating
+- type: text
+  name: book_author
+  label: book_author

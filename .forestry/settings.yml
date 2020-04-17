@@ -4,6 +4,9 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: content/**/*
+  label: Privacy Policy
 - type: directory
   path: content/notes
   label: Book Notes
