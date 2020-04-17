@@ -1,15 +1,15 @@
 +++
 aliases = ["smart-notes"]
+amazon_audio = ""
+amazon_kindle = "https://amzn.to/3bKiRbM"
+amazon_paper = "https://amzn.to/2Jze4O6"
+book_author = "Sonke Ahrens"
 date = 2020-03-29T04:00:00Z
 description = "An amazing book for those trying to improve their note-taking skills. If you've ever had trouble recalling the main concepts of a book to a friend when they ask about the key takeaways, this book is for you."
-book_author= "Sonke Ahrens"
 images = ["/images/how-to-take-smart-notes.jpg"]
-tags = ["Note taking", "Education"]
+rating = 6
+tags = ["Education", "Note-Taking"]
 title = "How to Take Smart Notes"
-amazon_paper="https://amzn.to/2Jze4O6"
-amazon_kindle="https://amzn.to/3bKiRbM"
-amazon_audio=""
-rating = 4.5
 
 +++
 ## Review
@@ -65,4 +65,3 @@ Our mind learns and remembers things via connections.
 There are two important reference notes needed according to Luhmen:
 - Overview of a Topic (Head Notes)- Used as an entry point for other notes
 - Note-to-Note references
-
