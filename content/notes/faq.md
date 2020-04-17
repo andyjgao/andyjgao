@@ -13,12 +13,11 @@ I also made this page mainly for myself as a way to consolidate all the insights
 
 ### How do I use these notes?
 
-My notes offer a glimpse into what a book offers by summarizing key points and hopefully giving you a taste of what a book is like. I still strongly recommend you to read the real book if you find one of my notes interesting, and instead use what I have written as a supplement to the real deal.
+My notes offer a glimpse into what a book contains by summarizing key points. I still strongly recommend you read the real book if you find my notes interesting, and instead, use it as a supplement to the real deal.
 
 ### What tools do you use to take these notes?
 
-I use [Roam Research](https://roamresearch.com/) and the zettelkasten method described in the book [How to Take Smart Notes](/notes/how-to-take-smart-notes/).
-Nat Eliason wrote a [fantastic article](https://www.nateliason.com/blog/roam) on why Roam Research is so powerful and Shu Omi made a [video](https://www.youtube.com/watch?v=ljyo_WAJevQ) on how to implement zettelkasten inside Roam.
+I use [Roam Research](https://roamresearch.com/) and the zettelkasten method described in the book [How to Take Smart Notes](/notes/how-to-take-smart-notes/). Nat Eliason wrote a [fantastic article](https://www.nateliason.com/blog/roam) on why Roam Research is so powerful and Shu Omi made a [video](https://www.youtube.com/watch?v=ljyo_WAJevQ) on how to implement zettelkasten inside Roam.
 
 ### What do the ratings mean?
 
