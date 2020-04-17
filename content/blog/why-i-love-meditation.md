@@ -3,7 +3,7 @@ aliases = ["meditation-is-nice"]
 date = 2020-04-16T04:00:00Z
 description = "Are you reading this article while you should be working? Here's how meditation can help."
 images = ["/images/meditation.jpg", "/images/meditation.jpg.jfif"]
-tags = ["Meditation", "Productivity"]
+tags = ["Lifestyle", "Productivity"]
 title = "Why I Love Meditation"
 
 +++
