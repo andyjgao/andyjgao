@@ -9,7 +9,7 @@ My book notes are always growing! As I finish reading each book, I will upload t
 
 When I tell people I like to read, the first thing they ask for is book recommendations. By making this notes page, I will be able to simply refer them here.
 
-I also made this page mainly for myself as a way to consolidate all the insights I acquired while reading a book. Most times, when I read, I pick up a lot of **Just-In-Case knowledge** that are hard to apply at the time of reading. However, this may change somewhere down the line and become **Just-In-Time knowledge**. By creating these notes, I will be able to reference the insights I developed in the past without having the reread a book.
+I also made this page mainly for myself as a way to consolidate all the insights I acquired while reading a book. Most times, when I read, I pick up a lot of **Just-In-Case knowledge** that is hard to apply at the time of reading. However, this may change somewhere down the line and become **Just-In-Time knowledge**. By creating these notes, I will be able to reference the insights I developed in the past without having the reread a book.
 
 ### How do I use these notes?
 
