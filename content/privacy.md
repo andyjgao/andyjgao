@@ -3,7 +3,6 @@ aliases = ["privacy-policy"]
 author = "Hugo Authors"
 date = 2020-04-17T00:00:00Z
 description = "Andy J Gao Website's privacy policy"
-draft = true
 title = "Privacy Policy"
 
 +++
@@ -68,7 +67,7 @@ We will also retain Usage Data for internal analysis purposes. Usage Data is gen
 
 ## Disclosure Of Data
 
-* Disclosure for Law Enforcement. Under certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+Under certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
 ## Security Of Data
 
