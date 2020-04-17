@@ -2,13 +2,14 @@
 aliases = ["smart-notes"]
 date = 2020-03-29T04:00:00Z
 description = "An amazing book for those trying to improve their note-taking skills. If you've ever had trouble recalling the main concepts of a book to a friend when they ask about the key takeaways, this book is for you."
+book_author= "Sonke Ahrens"
 images = ["/images/how-to-take-smart-notes.jpg"]
-tags = ["note taking", "education"]
+tags = ["Note taking", "Education"]
 title = "How to Take Smart Notes"
 amazon_paper="https://amzn.to/2Jze4O6"
 amazon_kindle="https://amzn.to/3bKiRbM"
 amazon_audio=""
-rating = 6
+rating = 4.5
 
 +++
 ## Review
