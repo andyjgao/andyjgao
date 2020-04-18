@@ -3,7 +3,7 @@ aliases = []
 date = 2020-04-18T20:22:00Z
 description = ""
 draft = true
-images = []
+images = ["/images/why-to-create-blog.jpg"]
 tags = ["Writing"]
 title = "Why I created a blog (and why you should too)"
 
