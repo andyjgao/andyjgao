@@ -1,11 +1,11 @@
 +++
 aliases = []
 date = 2020-04-18T20:22:00Z
-description = ""
+description = "And why you should too"
 draft = true
 images = ["/images/why-to-create-blog.jpg"]
 tags = ["Writing"]
-title = "Why I created a blog (and why you should too)"
+title = "Why I created a blog"
 
 +++
 I started this blog and you should create one too. Here's why:
