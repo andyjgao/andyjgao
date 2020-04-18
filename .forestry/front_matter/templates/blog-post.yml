@@ -22,5 +22,5 @@ fields:
   name: images
   label: images
 pages:
-- content/blog/why-i-created-a-blog-and-why-you-should-too.md
+- content/blog/why-i-created-blog.md
 - content/blog/why-i-love-meditation.md
