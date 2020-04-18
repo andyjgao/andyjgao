@@ -35,7 +35,7 @@ Let's say I want to improve my writing. Without a project to link to this goal, 
 
 I started this blog as a project to improve my writing.
 
-### A way to document my self as I evolve
+### A way to document myself as I evolve
 
 Every day, I absorb content through books, articles, tweets, etc. As I interact with these mediums, my beliefs and views change as well. Through this blog, I hope to be able to document this journey as I grow. Five years ago, I was different from who I am now. Five years later, I will be different too.
 
