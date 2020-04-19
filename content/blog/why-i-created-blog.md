@@ -7,7 +7,7 @@ tags = ["Writing"]
 title = "Why I Created a Blog (you should too)"
 
 +++
-I never thought of myself as a writer. In school, I consistently received grades in English that would make my Asian parents fume. Yet, I started this blog.  You should create one too. 
+I never thought of myself as a writer. In school, I consistently received grades in English that would make my Asian parents fume. Yet, I started this blog.  You should create one too.
 
 Here's why:
 
@@ -23,7 +23,7 @@ Ideas should be written down, discussed, and expressed. By publicizing them, you
 
 You write when you text, you write when you email. Everything in life revolves around it. Whether it be studying, research, academia, or expression -- you will use writing.
 
-When we synthesize our thoughts physically on paper, we can examine it and dissect it. Writing acts as a self-test as to whether you remember what you've learned. The next time you want to see if you understand a topic, try writing it out and see how much you know. Chances are you might remember a lot less than you thought. 
+When we synthesize our thoughts physically on paper, we can examine it and dissect it. Writing acts as a self-test of whether you remember what you've learned. The next time you want to see if you understand a topic, try writing it out and see how much you know. Chances are you might remember a lot less than you thought.
 
 A blog is useful because publishing your work means you need to work extra hard to understand the concept you are writing about.
 
