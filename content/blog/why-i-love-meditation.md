@@ -61,4 +61,4 @@ So now that we've discussed _what meditation is_ and _why you should meditate_, 
 2. **Find an object to focus your mind on.** This could be your breath or even a pebble. If you choose your breath, I recommend closing your eyes to remove visible distractions around you.
 3. **As you focus, you may notice that your mind wanders.** This is entirely okay--simply note it and refocus your mind. The more you do this, the longer you will be able to focus without your mind wandering.
 
-Meditating is easy, mastering it is hard. Thus, I suggest using [Headspace](https://www.headspace.com/ "url: https://www.headspace.com/"). (I am not sponsored in any way, I just love the app). It provides guided meditations that keep you on track with the steps mentioned above and smoothly transition you from a newbie to a daily practitioner. 
+Meditating is easy, mastering it is hard. Thus, I suggest using [Headspace](https://www.headspace.com/ "url: https://www.headspace.com/"). (I am not sponsored in any way, I just love the app). It provides guided meditations that keep you on track with the steps mentioned above and smoothly transitions you from a newbie to a daily practitioner. 
