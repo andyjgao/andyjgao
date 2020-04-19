@@ -21,7 +21,7 @@ At first, I was skeptical of this practice. Can closing your eyes and saying "om
 
 This was not until my university started offering a free subscription for Headspace, a meditation app. It advertised itself as an app to _help_ _people sleep better, stress less and focus more in just 5 minutes_.
 
-I decided to give it a shot. At worst, I waste 5 minutes each day, which I already did scrolling through YouTube. At best, I could gain the benefits promoted by [Headspace]().
+I decided to give it a shot. 
 
 After a week, I noticed my mind becoming calmer.
 
