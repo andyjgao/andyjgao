@@ -1,6 +1,6 @@
 +++
 aliases = ["privacy-policy"]
-author = "Hugo Authors"
+author = "Andy J Gao"
 date = 2020-04-17T00:00:00Z
 description = "Andy J Gao Website's privacy policy"
 title = "Privacy Policy"
