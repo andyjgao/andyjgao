@@ -5,6 +5,10 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: content/todo.md
+  label: Impossible List
+  match: "**/*"
+- type: document
   path: content/privacy.md
   label: Privacy Policy
 - type: directory
