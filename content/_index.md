@@ -1,6 +1,6 @@
 +++
 author = "Andy J Gao"
-title = "Hey there, I'm Andy."
+title = "Hi, I'm Andy."
 subheading = "#22 #softwareEngineer #entrepreneurship"
 
 +++

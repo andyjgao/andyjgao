@@ -6,7 +6,7 @@ description = "A list of Things I want to accomplish"
 title = "Impossible List"
 todo = "true"
 +++
-Below is an Impossible List inspired by [Joel Runyon's own list](https://impossiblehq.com/impossible-list/). The goal of an Impossible List is to create tasks that "seem" impossible at the moment, but will one become feasible as I grow. Everything item I put below is meant to push my boundaries and limit. However, it's important to note that **this list [is not a bucket list](https://impossiblehq.com/the-impossible-list-is-not-a-bucket-list/).** As I check things off, the list will change and evolve to match my new limits. 
+Below is an Impossible List inspired by [Joel Runyon's own list](https://impossiblehq.com/impossible-list/). The goal of an Impossible List is to create tasks that "seem" impossible at the moment, but will one become feasible as I grow. Everything item I put below is meant to push my boundaries and limit. However, it's important to note that **this list [is not a bucket list](https://impossiblehq.com/the-impossible-list-is-not-a-bucket-list/).** As I check things off, the list will change and evolve to match my new limits.
 
 ### Life
 - Graduate College
