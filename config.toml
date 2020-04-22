@@ -38,7 +38,7 @@ tag = "tags"
 
 [params]
   author = "Andy J Gao"
-  description = "I'm Asian. I write about things that interest me."
+  description = "Hi, I'm Andy Gao. I write about Tech, Entrepreneurship, Lifestyle, and Productivity. I like slow walks on the beach."
   homepageImage = "/images/prof_pic.jpg"
   share = false
   showLanguageSwitcher = false
