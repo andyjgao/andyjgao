@@ -38,4 +38,4 @@ Below is an Impossible List inspired by [Joel Runyon's own list](https://impossi
 
 * Run a Marathon
 * Reach 190lbs of absolute shredded muscle
-* Do 1,000 pushups in a day
+* Do 1,000 pushups in one session
