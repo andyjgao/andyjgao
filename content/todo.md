@@ -5,8 +5,9 @@ date = 2020-04-21T04:00:00Z
 description = "Andy Gao's Impossible List"
 title = "Impossible List"
 todo = "true"
+
 +++
-Below is an Impossible List inspired by [Joel Runyon's own list](https://impossiblehq.com/impossible-list/). The goal of an Impossible List is to create tasks that "seem" impossible at the moment, but will become feasible as I grow. Everything item I put below is meant to push my boundaries and limits. However, it's important to note that **this list** [**is not a bucket list**](https://impossiblehq.com/the-impossible-list-is-not-a-bucket-list/)**.** As I check things off, the list will change and evolve.
+Below is an Impossible List inspired by [Joel Runyon's own list](https://impossiblehq.com/impossible-list/). The goal of an Impossible List is to create tasks that "seem" impossible at the moment, but will become feasible as I grow. Every item I put below is meant to push my boundaries and limits. However, it's important to note that **this list** [**is not a bucket list**](https://impossiblehq.com/the-impossible-list-is-not-a-bucket-list/)**.** As I check things off, the list will change and evolve.
 
 ### Life
 
