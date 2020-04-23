@@ -2,7 +2,7 @@
 author = "Andy J Gao"
 title = "Hi, I'm Andy."
 subheading = "#22 #softwareEngineer #entrepreneurship"
-
+home = "true"
 +++
 
 I'm an incoming software engineer @[Better Mortgage](https://better.com/). In my free time, I like [reading](https://andyjgao.com/notes), fitness, making Youtube Videos, [traveling](https://itsamyandandy.xyz/), and coming up with new business ideas.
