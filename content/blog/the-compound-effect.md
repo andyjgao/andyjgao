@@ -37,7 +37,7 @@ The next time you have a goal in mind, break it down from an enormous task into 
 
 ### Track your progress
 
-Journaling your progress is equally as important when implementing the compound effect strategy. By journaling your progress, you can see when you deviate from your plan and correct it, as well as when you are progressing effectively in your goals.
+Journaling your progress is equally as important when implementing the compound effect strategy. By journaling your progress, you can see when you deviate from your plan and correct it, as well as when you are progressing effectively.
 
 ### Consistency
 
