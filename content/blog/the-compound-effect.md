@@ -2,7 +2,6 @@
 aliases = []
 date = 2020-04-27T04:00:00Z
 description = "$1,000 a month vs. $20/month with 10% growth each month. Which would you choose?"
-draft = true
 images = ["/images/compound-effect.jpg"]
 tags = ["Lifestyle"]
 title = "The Compound Effect"
