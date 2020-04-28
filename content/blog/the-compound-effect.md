@@ -19,7 +19,7 @@ In 3.5 years, Option B would yield a monthly income of $1,095.27. In 5 years, Op
 
 A compound interest investment, or Option B, becomes a no-brainer. But what is the key takeaway? From Option B, we learn that growth, no matter how small, is better than stagnation in the long run.
 
-In life, you should choose Option B. 
+In life, you should choose Option B.
 
 Follow a compound effect strategy toward your goals, and you will reap the rewards.
 
@@ -33,17 +33,15 @@ So how do you effectively implement the compound strategy?
 
 ### Breaking down goals
 
-The next time you have a goal in mind, break it down from an enormous task into daily tasks, and you will find that it is far easier than you imagined. Imagine having a goal of reading 30 books in a year. An average book is \~[250 pages](https://www.megcabot.com/about-meg-cabot/frequently-asked-questions-getting-published/), and let's say you read 25 pages a day. In a year, you would have finished 36.5 books, even more than your original goal.
+The next time you have a goal in mind, break it down from an enormous task into daily tasks, and you will find that it is far easier than you thought. Imagine having a goal of reading 30 books in a year. An average book is \~[250 pages](https://www.megcabot.com/about-meg-cabot/frequently-asked-questions-getting-published/), and let's say you read 25 pages a day. In a year, you would have finished 36.5 books, even more than your original goal.
 
 ### Track your progress
 
-Journaling your progress is equally as important when implementing the compound effect strategy. By journaling your progress, you can see when you deviate from your plan and when you are progressing effectively in your goals.
+Journaling your progress is equally as important when implementing the compound effect strategy. By journaling your progress, you can see when you deviate from your plan and correct it, as well as when you are progressing effectively in your goals.
 
 ### Consistency
 
-The most important step is consistency. Consistency is the foundation of the compound effect. You can break down your goals and track your progress, but if you are not doing this regularly, the compound effect will not happen.
-
-**The key to implementing the compound strategy is consistency.**
+**The most important step is consistency.** Consistency is the foundation of the compound effect. You can break down your goals and track your progress, but if you are not doing this regularly, the compound effect will not happen.
 
 This strategy works almost 100% of the time. I've used it to learn to program, read more, and reach my fitness goals.
 
