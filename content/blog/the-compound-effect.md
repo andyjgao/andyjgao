@@ -7,7 +7,7 @@ tags = ["Lifestyle"]
 title = "The Compound Effect"
 
 +++
-Let's say you were given two choices: Option A: **$1,000 a month** vs. OptionB: **$20/month with 10% growth each month.**
+Let's say you were given two choices: Option A: **$1,000 a month** vs. Option : **$20/month with 10% growth each month.**
 
 Which would you choose?
 
