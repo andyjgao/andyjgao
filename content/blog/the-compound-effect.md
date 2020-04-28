@@ -43,12 +43,12 @@ Journaling your progress is equally as important when implementing the compound 
 
 **The most important step is consistency.** Consistency is the foundation of the compound effect. You can break down your goals and track your progress, but if you are not doing this regularly, the compound effect will not happen.
 
-This strategy works almost 100% of the time. I've used it to learn to program, read more, and reach my fitness goals.
-
 > "Small choices + consistency + time = significant results."  **-- Darren Hardy**
 
 ## What's next?
 
 Now that we've discussed how to apply the compound effect in your life, the next step is to take action. Find a goal or skill that you've always wanted to learn and break it down. Make progress on it no matter how small.
+
+This strategy works almost 100% of the time. I've used it to learn to program, read more, and reach my fitness goals.
 
 Hopefully, by the end of quarantine, you'll have developed a new skill you always aspired to have.
