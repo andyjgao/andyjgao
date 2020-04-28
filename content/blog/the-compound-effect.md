@@ -25,7 +25,7 @@ Follow a compound effect strategy toward your goals, and you will reap the rewar
 
 ## Implementing the compound effect strategy
 
-Darren Hardy describes it best in his book _The Compound Effect_ when he states that the compound effect strategy is doing seemingly insignificant actions consistently.
+Darren Hardy describes it best in his book [_The Compound Effect_](https://amzn.to/2ySJoFn)  when he states that the compound effect strategy is doing seemingly insignificant actions consistently.
 
 Hardy references two people who start at the same weight. One person increases his daily caloric intake by 125 calories, and the other decreases it by 125 calories. Although insignificant at first, after 2.5 years, one becomes fat while the other becomes skinny.
 
