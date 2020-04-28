@@ -1,8 +1,7 @@
 +++
-aliases = []
+aliases = ["compound-effect"]
 date = 2020-04-27T04:00:00Z
 description = "$1,000 a month vs. $20/month with 10% growth each month. Which would you choose?"
-draft = true
 images = ["/images/compound-effect.jpg"]
 tags = ["Lifestyle"]
 title = "The Compound Effect"
@@ -22,7 +21,7 @@ A compound interest investment, or Option B, becomes a no-brainer. But what is t
 
 In life, you should choose Option B. 
 
-**Follow a compound effect strategy toward your goals, and you will reap the rewards.**
+Follow a compound effect strategy toward your goals, and you will reap the rewards.
 
 ## Implementing the compound effect strategy
 
@@ -48,7 +47,7 @@ The most important step is consistency. Consistency is the foundation of the com
 
 This strategy works almost 100% of the time. I've used it to learn to program, read more, and reach my fitness goals.
 
-> Small choices + consistency + time = significant results. **-- Darren Hardy**
+> "Small choices + consistency + time = significant results."  **-- Darren Hardy**
 
 ## What's next?
 
