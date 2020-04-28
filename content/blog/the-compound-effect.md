@@ -7,7 +7,7 @@ tags = ["Lifestyle"]
 title = "The Compound Effect"
 
 +++
-Let's say you were given two choices: **$1,000 a month** vs. **$20/month with 10% growth each month.**
+Let's say you were given two choices: Option A: **$1,000 a month** vs. OptionB: **$20/month with 10% growth each month.**
 
 Which would you choose?
 
@@ -27,7 +27,7 @@ Follow a compound effect strategy toward your goals, and you will reap the rewar
 
 Darren Hardy describes it best in his book _The Compound Effect_ when he states that the compound effect strategy is doing seemingly insignificant actions consistently.
 
-Hardy describes in his book two people who start at the same weight. One person increases his daily caloric intake by 125 calories, and the other decreasing 125 calories. While insignificant at first, after 2.5 years, one becomes fat while the other becomes skinny.
+Hardy references two people who start at the same weight. One person increases his daily caloric intake by 125 calories, and the other decreases it by 125 calories. Although insignificant at first, after 2.5 years, one becomes fat while the other becomes skinny.
 
 So how do you effectively implement the compound strategy?
 
