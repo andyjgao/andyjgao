@@ -19,7 +19,9 @@ In 3.5 years, Option B would yield a monthly income of $1,095.27. In 5 years, Op
 
 A compound interest investment, or Option B, becomes a no-brainer. But what is the key takeaway? From Option B, we learn that growth, no matter how small, is better than stagnation in the long run.
 
-In life, you should choose Option B. Follow a compound effect strategy toward your goals, and you will reap the rewards.
+In life, you should choose Option B. 
+
+**Follow a compound effect strategy toward your goals, and you will reap the rewards.**
 
 ## Implementing the compound effect strategy
 
