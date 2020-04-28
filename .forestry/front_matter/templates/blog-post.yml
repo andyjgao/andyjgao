@@ -22,5 +22,6 @@ fields:
   name: images
   label: images
 pages:
+- content/blog/the-compound-effect.md
 - content/blog/why-i-created-blog.md
 - content/blog/why-i-love-meditation.md
