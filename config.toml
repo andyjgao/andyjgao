@@ -82,3 +82,5 @@ tag = "tags"
 
   [services.twitter]
     disableInlineCSS = true
+[outputs]
+  home = ["HTML", "JSON"]

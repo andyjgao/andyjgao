@@ -1,7 +1,7 @@
 +++
 hidden = "true"
 title = "FAQ"
-
+description = "FAQ for Book Notes"
 +++
 My book notes are always growing! As I finish reading each book, I will upload them to my [notes page](/notes/). The following is a guide and some commonly asked questions on how to use these notes.
 
