@@ -4,7 +4,7 @@ date = 2020-04-30T04:00:00Z
 description = "3 Lessons I learned after graduating college"
 images = ["/images/keyTakeAwaysCollege.jpg"]
 tags = ["Education"]
-title = "Key Takeaways After Graduating College"
+title = "Key Takeaways From College"
 
 +++
 It's been almost one full semester since I graduated college. And it has given me some proper time to reflect on my experience, what I've learned, and lessons I got of out it.
