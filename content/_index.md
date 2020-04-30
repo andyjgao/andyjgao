@@ -1,12 +1,14 @@
 +++
 author = "Andy J Gao"
-title = "Hi, I'm Andy."
-subheading = "#22 #softwareEngineer #entrepreneurship"
 home = "true"
+subheading = ""
+title = "Hi, I'm Andy."
+
 +++
+I'm an incoming software engineer [@Better Mortgage](better.com).
 
-I'm an incoming software engineer @[Better Mortgage](https://better.com/). In my free time, I like [reading](https://andyjgao.com/notes), fitness, making Youtube Videos, [traveling](https://itsamyandandy.xyz/), and coming up with new business ideas.
+I like [reading](https://andyjgao.com/notes), fitness, making Youtube Videos, [traveling](https://itsamyandandy.xyz/), and coming up with new business ideas.
 
-Check out my blog if you are interested in topics such as productivity, tech tips, entrepreneurship, personal finance and more.
+I [write]() weekly (sometimes more) about productivity, tech tips, entrepreneurship, personal finance, and more.
 
-If you are interested in my weekly thoughts and readings, I will be posting them in my newsletter, which you can subscribe to below.
+Every Monday, I send an email summarizing the most interesting things I've learned as well as any articles I've posted the previous week. Subscribe below!
