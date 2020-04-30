@@ -5,9 +5,7 @@ subheading = ""
 title = "Hi, I'm Andy."
 
 +++
-I'm an incoming software engineer [@Better Mortgage](better.com).
-
-I like [reading](https://andyjgao.com/notes), fitness, making Youtube Videos, [traveling](https://itsamyandandy.xyz/), and coming up with new business ideas.
+I'm an incoming software engineer [@Better Mortgage](better.com). I like [reading](https://andyjgao.com/notes), fitness, making Youtube Videos, [traveling](https://itsamyandandy.xyz/), and coming up with new business ideas.
 
 I [write]() weekly (sometimes more) about productivity, tech tips, entrepreneurship, personal finance, and more.
 
