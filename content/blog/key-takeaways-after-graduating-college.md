@@ -7,7 +7,7 @@ tags = ["Education"]
 title = "Key Takeaways After Graduating College"
 
 +++
-It's been almost one full semester since I graduated college. And it has given me some proper time to reflect on my experience, what I've learned, and lessons I got of out it. 
+It's been almost one full semester since I graduated college. And it has given me some proper time to reflect on my experience, what I've learned, and lessons I got of out it.
 
 Here are some key takeaways:
 
@@ -47,4 +47,4 @@ I found my community.
 
 ***
 
-Thanks for reading! [If you enjoyed what you read and want to receive future articles by email, subscribe to my Monday Mail Newsletter](https://mondaymail.substack.com/) or follow me [@andyjgao](https://twitter.com/AndyJGao) on Twitter.
+Thanks for reading! If you enjoyed what you read and want to receive future articles by email, subscribe to my [Monday Mail Newsletter](https://mondaymail.substack.com/) or [follow me on Twitter](https://twitter.com/AndyJGao).
