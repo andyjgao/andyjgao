@@ -4,7 +4,7 @@ date = 2020-04-30T04:00:00Z
 description = "3 Lessons I learned after graduating college"
 draft = true
 images = ["/images/keyTakeAwaysCollege.jpg"]
-tags = []
+tags = ["Education"]
 title = "Key Takeaways After Graduating College"
 
 +++
