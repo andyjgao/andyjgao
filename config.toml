@@ -45,7 +45,7 @@ tag = "tags"
 
   # Custom CSS and JS. Relative to /static/css and /static/js respectively.
   customCSS = []
-  customJS = []
+  customJS = ["custom.js"]
 
   [params.social]
     rss = false
