@@ -1,11 +1,11 @@
 +++
 author = "Andy J Gao"
 home = "true"
-subheading = ""
-title = "Hi, I'm Andy."
+subheading = "I learn by doing."
+title = "Hey, I'm Andy."
 
 +++
-I'm an incoming software engineer [@Better Mortgage](https://better.com). I like [reading](https://andyjgao.com/notes), fitness, making Youtube Videos, [traveling](https://itsamyandandy.xyz/), and coming up with new business ideas.
+I like [reading](https://andyjgao.com/notes), fitness, making Youtube Videos, [traveling](https://itsamyandandy.xyz/), coming up with new business ideas, and **learning by doing**.
 
 I [write](https://www.andyjgao.com/blog/) weekly (sometimes more) about productivity, tech tips, entrepreneurship, personal finance, and more.
 
