@@ -13,7 +13,9 @@ This page is not accessible via any direct links because I don't feel right aski
 However, if you choose to, here are some ways you can support me.
 
 ## Buy Me a Burrito
-I am an engine that runs on burritos. You can help **[contribute to my burrito fund here.](https://www.buymeacoffee.com/andyjgao)** 
+I am an engine that runs on burritos. You can help **[contribute to my burrito fund here.](https://ko-fi.com/andyjgao)** 
+
+![Me eating a burrito](/images/burrito_andy.jpg)
 
 ## Buy on Amazon
 If you purchase anything on Amazon, this will be of no extra cost to you. 
