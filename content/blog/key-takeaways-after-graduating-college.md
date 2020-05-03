@@ -47,4 +47,4 @@ I found my community.
 
 ***
 
-Thanks for reading! If you enjoyed what you read and want to receive future articles by email, subscribe to my [Monday Mail Newsletter](https://mondaymail.substack.com/) or [follow me on Twitter](https://twitter.com/AndyJGao).
+_Thanks for reading! If you enjoyed what you read and want to receive future articles by email, subscribe to my_ [_Monday Mail Newsletter_](https://mondaymail.substack.com/) _or_ [_follow me on Twitter_](https://twitter.com/AndyJGao)_._
