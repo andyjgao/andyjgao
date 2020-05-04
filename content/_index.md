@@ -1,7 +1,7 @@
 +++
 author = "Andy J Gao"
 home = "true"
-subheading = "I learn by doing."
+subheading = ""
 title = "Hey, I'm Andy."
 
 +++
