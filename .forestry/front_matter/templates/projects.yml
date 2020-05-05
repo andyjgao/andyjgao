@@ -1,0 +1,31 @@
+---
+label: Projects
+hide_body: true
+fields:
+- type: list
+  name: aliases
+  label: aliases
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: image_gallery
+  name: images
+  label: images
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: view
+  label: view
+- type: text
+  name: github
+  label: github
+- type: text
+  name: link
+  label: link
+- type: text
+  name: title
+  label: title
