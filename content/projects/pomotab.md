@@ -32,15 +32,13 @@ PomoTab is a Chrome Extension rendering a minimalist Pomodoro timer in each new 
 
 ## Problem
 
-I built this Chrome Extension after I could not find an extension that offered a simple Pomodoro Timer with no extra frills. Almost every extension I installed was feature bloated and did not serve my use-case of a simple, minimal Pomodoro Timer.
+I built this Chrome Extension after being unable to find a Pomodoro Timer without _feature bloat_. Every extension I installed had so many unnecessary addons and did not serve my use-case of a simple, minimal Pomodoro Timer.
 
 ## Goal
 
 Build a minimalist Pomodoro Timer. It must have only the necessary features and be easy to use/access.
 
-## Ideation
-
-Low-Fidelity Mock Up
+## Low-Fidelity Mockup
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FiFRceHGp-y?alt=media&token=9428cda7-3ecf-4c2c-85d9-53a2e80a8ef2)
 
