@@ -48,7 +48,7 @@ The primary roadblock I ran into was trying to use **React Hooks** with the **se
 
 ## End Result
 
-After a few hours of grinding, I ended up with the following result:
+After a few hours of coffee induced grinding, I ended up with the following result:
 
 ![](https://i.imgur.com/GhiKHSr.gif)
 
