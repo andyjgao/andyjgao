@@ -33,7 +33,7 @@ PomoTab is a Chrome Extension rendering a minimalist Pomodoro timer in each new 
 
 ## Problem
 
-I built this Chrome Extension after I could not find an extension that offered a simple Pomodoro Timer with no extra frills. Almost every extension I installed was feature bloated and did not serve my use-case of a simple, minimal Pomodoro Timer.
+I built this Chrome Extension after not being able to find an extension that offered a simple Pomodoro Timer _without feature bloat_. Almost every extension I installed was riddled with additional functions and did not serve my use-case of a simple, minimal Pomodoro Timer.
 
 ## Goal
 
@@ -51,10 +51,10 @@ The primary roadblock I ran into was trying to use **React Hooks** with the **se
 
 ## End Result
 
-After a couple hours of grinding, I ended up with the following result:
+After a few hours of coffee induced grinding, I ended up with the following result:
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FQutj6w27Y7.png?alt=media&token=1caea9f3-0a67-4473-b1c0-2dabcf340cf0)
+![](https://i.imgur.com/sipyQpU.gif)
 
 I was pretty happy with the result. And I learned a good amount about **React Hooks and Chrome Extensions.**
 
-If you want a minimalist Pomodoro Timer for Chrome, [add the extension here](https://chrome.google.com/webstore/detail/pomotab/dbpkgeidmoofficdjjpikfachonamakh "url: https://chrome.google.com/webstore/detail/pomotab/dbpkgeidmoofficdjjpikfachonamakh").
+If you want PomoTab for your own Chrome Browser, [add the extension here](https://chrome.google.com/webstore/detail/pomotab/dbpkgeidmoofficdjjpikfachonamakh "url: https://chrome.google.com/webstore/detail/pomotab/dbpkgeidmoofficdjjpikfachonamakh").
