@@ -29,5 +29,3 @@ fields:
 - type: text
   name: title
   label: title
-pages:
-- content/projects/pomotab.md
