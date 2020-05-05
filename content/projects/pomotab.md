@@ -52,8 +52,6 @@ The primary roadblock I ran into was trying to use **React Hooks** with the **se
 
 After a few hours of coffee induced grinding, I ended up with the following result:
 
-![](https://i.imgur.com/sipyQpU.gif)
-
 I was pretty happy with the result. And I learned a good amount about **React Hooks and Chrome Extensions.**
 
 If you want PomoTab for your own Chrome Browser, [add the extension here](https://chrome.google.com/webstore/detail/pomotab/dbpkgeidmoofficdjjpikfachonamakh "url: https://chrome.google.com/webstore/detail/pomotab/dbpkgeidmoofficdjjpikfachonamakh").
