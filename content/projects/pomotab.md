@@ -55,3 +55,7 @@ After a few hours of coffee induced grinding, I ended up with the following resu
 I was pretty happy with the result. And I learned a good amount about React Hooks and Chrome Extensions.
 
 If you want a minimalist Pomodoro Timer, [add the extension here](https://chrome.google.com/webstore/detail/pomotab/dbpkgeidmoofficdjjpikfachonamakh).
+
+***
+
+_Tomato Artwork made by the talented_ [_@seb.draws_](https://www.instagram.com/seb.draws/)
