@@ -27,6 +27,11 @@ summaryLength = 30
     url = "/notes/"
     weight = 2
   [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+  [[menu.main]]
     identifier = "mail"
     name = "Mail"
     url = "https://mondaymail.substack.com/"
