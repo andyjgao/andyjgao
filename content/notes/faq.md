@@ -1,7 +1,8 @@
 +++
+description = "FAQ for Book Notes"
 hidden = "true"
 title = "FAQ"
-description = "FAQ for Book Notes"
+
 +++
 My book notes are always growing! As I finish reading each book, I will upload them to my [notes page](/notes/). The following is a guide and some commonly asked questions on how to use these notes.
 
@@ -9,7 +10,7 @@ My book notes are always growing! As I finish reading each book, I will upload t
 
 When I tell people I like to read, the first thing they ask for is book recommendations. By making this notes page, I will be able to simply refer them here.
 
-I also made this page mainly for myself as a way to consolidate all the insights I acquired while reading a book. Most times, when I read, I pick up a lot of **Just-In-Case knowledge** that is hard to apply at the time of reading. However, this may change somewhere down the line and become **Just-In-Time knowledge**. By creating these notes, I will be able to reference the insights I developed in the past without having the reread a book.
+I also made this page mainly for myself as a way to consolidate all the insights I acquired while reading a book. Most times, when I read, I pick up a lot of **Just-In-Case information** that is hard to apply at the time of reading. However, this may change somewhere down the line and become **Just-In-Time information**. By creating these notes, I will be able to reference the insights I found in the past without having to reread a book.
 
 ### How do I use these notes?
 
@@ -27,7 +28,7 @@ All opinions expressed are solely my own and do not express the views or opinion
 
 **4-** This book is very well written and I would strongly recommend reading. It provides valuable insights backed by substance.
 
-**3-** This book is simply average. The book has valuable insights but may lack in delivery
+**3-** This book is simply average. The book has valuable insights but may lack in delivery.
 
 **2-** This book lacks substance. There may be a few valuable insights.
 
