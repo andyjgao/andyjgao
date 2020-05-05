@@ -52,7 +52,7 @@ The primary roadblock I ran into was trying to use **React Hooks** with the **se
 
 After a few hours of grinding, I ended up with the following result:
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FQutj6w27Y7.png?alt=media&token=1caea9f3-0a67-4473-b1c0-2dabcf340cf0)
+![](https://i.imgur.com/GhiKHSr.gif)
 
 I was pretty happy with the result. And I learned a good amount about React Hooks and Chrome Extensions.
 
