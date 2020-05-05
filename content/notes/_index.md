@@ -3,6 +3,7 @@ aliases = ["book-notes","note","book","books"]
 title = "Notes"
 author = "Andy Gao"
 tags = ["index"]
+home = "true"
 +++
 I enjoy reading in my free time, but I've come to realize that I forget what I read after 2-3 weeks. Thus, I've decided to take notes of every book I read from now on. 
 
