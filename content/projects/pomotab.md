@@ -7,7 +7,7 @@ images = ["/images/PomoTab.png"]
 link = "https://chrome.google.com/webstore/detail/pomotab/dbpkgeidmoofficdjjpikfachonamakh"
 tags = ["Chrome Extension", "React"]
 title = "PomoTab"
-view = "View Chrome Extension"
+view = "View Extension"
 
 +++
 **Tech Stack:** ReactJS (Hooks), MaterialUI
