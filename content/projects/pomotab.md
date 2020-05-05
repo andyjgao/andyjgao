@@ -58,4 +58,4 @@ If you want a minimalist Pomodoro Timer, [add the extension here](https://chrome
 
 ***
 
-_Tomato Artwork made by the talented_ [_@seb.draws_](https://www.instagram.com/seb.draws/)
+_Tomato Artwork made by the talented_ [_seb.draws_](https://www.instagram.com/seb.draws/)_._
