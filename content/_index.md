@@ -9,4 +9,4 @@ I like [reading](https://andyjgao.com/notes), fitness, making Youtube Videos, [t
 
 I [write](https://www.andyjgao.com/blog/) weekly (sometimes more) about productivity, tech tips, entrepreneurship, personal finance, and more.
 
-Every Monday, I send an email summarizing the most interesting things I've learned as well as any articles I've posted the previous week. Subscribe below!
+Each week, I spend roughly 5-15 hours consuming books, articles, podcasts, and tweets. Then, every Monday, I send an email of the most interesting things I've learned to my email subscribers. 
