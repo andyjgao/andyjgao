@@ -1,5 +1,5 @@
 baseURL = "https://andyjgao.com/"
-title = "AndyJGao"
+title = "Andy J Gao"
 copyright = ""
 paginate = 2
 languageCode = "en"
@@ -43,7 +43,6 @@ tag = "tags"
 
 [params]
   author = "Andy J Gao"
-  description = "Hi, I'm Andy Gao. I write about Tech, Entrepreneurship, Lifestyle, and Productivity. I like slow walks on the beach."
   homepageImage = "/images/prof_pic.jpg"
   share = false
   showLanguageSwitcher = false
