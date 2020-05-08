@@ -10,7 +10,7 @@ title = "3 Pillars of Productivity"
 +++
 During college, I experimented a lot with productivity systems. I tried waking up at 4 am, using a bullet journal, etc. You name it, I've done it. 
 
-I've come to realize is that no matter what program or product you use, there are general principles that can be applied to any system.
+I've come to realize that no matter what program or product you use, there are general principles that can be applied to any system.
 
 My productivity strategy is based on three pillars: **Planning Ahead, Removing Distractions, and Maintaining Focus.**
 
@@ -44,23 +44,27 @@ I almost never adhere to the schedule exactly (life is unexpected) but it does g
 
 ## Remove Distractions
 
+Removing distractions is absolutely essential to being productive. It takes around [23 minutes](https://www.themuse.com/advice/this-is-nuts-it-takes-nearly-30-minutes-to-refocus-after-you-get-distracted) to refocus after getting distracted, so it is in our best interest to reduce distractions as much as possible.
+
+### Work During Off-Hours
+
+If distractions are caused by the notifications ringing on our phone or the messages we have to respond to, working when everyone else is asleep drastically reduces the amount of minutes distracted by these hindrances. 
+
+When you wake up earlier (or sleep a lot later), you grant yourself hours of undisturbed focus where you can do [deep work](https://www.calnewport.com/books/deep-work/), a necessity when doing meaningful knowledge work.
+
 ### Separate your Work Environment
 
 I used to work in the same room as my bed, and this made napping SO EASY. If I got stuck on a bug while programming or had writer's block, I would roll into bed and take a nap. This destroyed my productivity.
 
 Our surroundings have a certain amount of influence on the [psychological states and choices we make.](http://healthysleep.med.harvard.edu/healthy/getting/overcoming/tips) By physically separating where we work and relax, we are able to create a mental separation as well.
 
-### Work During Off-Hours
-
-If distractions are caused by the notifications we receive, working when everyone else is asleep drastically reduces the amount of minutes distracted by these hindrances. 
-
-When you wake up earlier (or sleep a lot later), you grant yourself hours of undisturbed focus where you can do [deep work](https://www.calnewport.com/books/deep-work/), a necessity when doing meaningful knowledge work.
-
 ### No Phones
 
 This one is simple, just don't use it. When you work, put your phone away.  A general rule of thumb is to keep it out-of-sight and 7 seconds away.
 
 ## Maintaining Focus
+
+Now that we've created a plan, and removed distractions, the final task is to maintain focus while we work. 
 
 ### Pomodoro Technique
 
@@ -70,4 +74,4 @@ Currently, I use the [PomoTab](https://www.andyjgao.com/projects/pomotab/) Chrom
 
 ### Meditation
 
-Similar to how we training our body with exercise, we train our mind with meditation. [Meditation](https://www.andyjgao.com/blog/why-i-love-meditation/) helps increase the grey-matter in our brain which is directly correlated to focus and attention. Through meditation, we can increase the duration we maintain focus on an activity.  
+Similar to how we training our body with exercise, we train our mind with meditation. [Meditation](https://www.andyjgao.com/blog/why-i-love-meditation/) helps increase the grey-matter in our brain which is directly correlated to focus and attention. Through meditation, we can increase the duration we maintain our focus on an activity.  
