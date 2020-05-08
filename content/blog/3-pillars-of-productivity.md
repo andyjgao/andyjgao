@@ -22,7 +22,7 @@ I split planning into Weekly Planning and Daily Planning.
 
 ### Weekly Planning
 
-Every Sunday, I spend roughly 30 minutes to plan for the week ahead. I start by examining my Project List and see what outstanding tasks I have to finish.
+Every Sunday, I spend roughly 30 minutes to plan for the week ahead. I start by examining my project list and see what outstanding tasks I have to finish.
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FGr23n_h1sA.png?alt=media&token=c5eae831-bdb9-4d48-8946-6c23d6b7aecb)
 
@@ -52,13 +52,15 @@ Our surroundings have a certain amount of influence on the [psychological states
 
 ### Work During Off-Hours
 
+If distractions are caused by the notifications we receive, working when everyone else is asleep drastically reduces the amount of minutes distracted by these hindrances. 
+
+When you wake up earlier (or sleep a lot later), you grant yourself hours of undisturbed focus where you can do [deep work](https://www.calnewport.com/books/deep-work/), a necessity when doing meaningful knowledge work.
+
 ### No Phones
 
 This one is simple, just don't use it. When you work, put your phone away.  A general rule of thumb is to keep it out-of-sight and 7 seconds away.
 
 ## Maintaining Focus
-
-Now that we've created a plan, and removed distractions, the final task is to work. We remain productive when working by maintaining focus.
 
 ### Pomodoro Technique
 
@@ -67,3 +69,5 @@ The Pomodoro Technique is a system where you choose a task to focus on for 25 mi
 Currently, I use the [PomoTab](https://www.andyjgao.com/projects/pomotab/) Chrome Extension, but there are also plenty of other options online.
 
 ### Meditation
+
+Similar to how we training our body with exercise, we train our mind with meditation. [Meditation](https://www.andyjgao.com/blog/why-i-love-meditation/) helps increase the grey-matter in our brain which is directly correlated to focus and attention. Through meditation, we can increase the duration we maintain focus on an activity.  
