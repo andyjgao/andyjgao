@@ -8,13 +8,17 @@ tags = ["Productivity"]
 title = "3 Pillars of Productivity"
 
 +++
-These are my 3 pillars to productivity:
+During college, I experimented a lot with productivity systems. I tried waking up at 4 am, using a bullet journal, etc. You name it, I've done it. 
+
+What I've come to realize is that no matter the program or product you use, there are general principles that can be applied to any system.
+
+My productivity strategy is based on three pillars: **Planning Ahead, Removing Distractions, and Maintaining Focus.**
 
 ## Planning Ahead
 
-Planning should really be called **investing your time.** Just as we invest money in the stock market to increase our wealth, we should invest minutes in planning to _save hours in the future._
+Planning should really be called investing your time. Just as we invest money in the stock market to increase our wealth, we should invest minutes in planning to _save hours in the future._
 
-I split planning into **Weekly Planning** and **Daily Planning**.
+I split planning into Weekly Planning and Daily Planning.
 
 ### Weekly Planning
 
@@ -40,17 +44,17 @@ I almost never adhere to the schedule exactly (life is unexpected) but it does g
 
 ## Remove Distractions
 
-### No Phones
-
-When I am working, I chuck my phone as far away as possible to reduce any temptation in checking it. Previously, I had switched my phone into Airplane Mode but the close proximity had me reaching for it regardless. In order to prevent any inclination from using your phone, I highly recommend putting it in a different room.
-
 ### Separate your Work Environment
 
 I used to work in the same room as my bed, and this made napping SO EASY. If I got stuck on a bug while programming or had writer's block, I would roll into bed and take a nap. This destroyed my productivity.
 
 Our surroundings have a certain amount of influence on the [psychological states and choices we make.](http://healthysleep.med.harvard.edu/healthy/getting/overcoming/tips) By physically separating where we work and relax, we are able to create a mental separation as well.
 
-Generally, a rule of thumb is to keep any distraction 7-seconds away.
+### Work During Off-Hours
+
+### No Phones
+
+This one is simple, just don't use it. When you work, put your phone away.  A general rule of thumb is to keep it out-of-sight and 7 seconds away.
 
 ## Maintaining Focus
 
