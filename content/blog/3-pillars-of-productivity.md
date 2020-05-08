@@ -31,7 +31,7 @@ Afterward, I compile all of my todos into a weekly task list and assigned it to 
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FzVa8Q9JqV6.png?alt=media&token=4d9f5db6-8865-4740-86f9-330c383b12f2)
 
-And that's it. This simple weekly routine has drastically improved my efficiency in completing projects and has taken the mental load of figuring what I need to do each day.
+This simple weekly routine has drastically improved my efficiency in completing projects and has taken the mental load of figuring what I need to do each day.
 
 ### Daily Planning
 
@@ -76,6 +76,8 @@ The Pomodoro Technique is a system where you choose a task to focus on for 25 mi
 Once you become comfortable, you can increase the duration of each focus-session.
 
 Currently, I use the [PomoTab](https://www.andyjgao.com/projects/pomotab/) Chrome Extension, but there are also plenty of other options online.
+
+And that's it. These three principles-- **Planning Ahead, Removing Distractions, and Maintaining Focus** -- have transformed my productivity and I hope yours as well.
 
 ***
 
