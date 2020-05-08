@@ -1,7 +1,7 @@
 +++
 aliases = []
 date = 2020-05-08T04:00:00Z
-description = "Planning, Removing Distractions, and Maintaining Focus"
+description = "Plan ahead, Remove distractions, and Maintain focus"
 images = ["/images/3-pillars-of-productivity.jpg"]
 tags = ["Productivity"]
 title = "3 Pillars of Productivity"
