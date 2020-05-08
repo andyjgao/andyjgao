@@ -29,7 +29,7 @@ Every Sunday, I spend roughly 30 minutes to plan for the week ahead. I start by 
 
 Afterward, I compile all of my todos into a weekly task list and assigned it to different days throughout the week.
 
-![https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FzVa8Q9JqV6.png?alt=media&token=4d9f5db6-8865-4740-86f9-330c383b12f2](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FzVa8Q9JqV6.png?alt=media&token=4d9f5db6-8865-4740-86f9-330c383b12f2)
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FYC6vbT4qMx.png?alt=media&token=3a40d44c-fe19-440f-a043-e2f66a3091e7)
 
 This simple weekly routine has drastically improved my efficiency in completing projects and has taken the mental load of figuring what I need to do each day.
 
