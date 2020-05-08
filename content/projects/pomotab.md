@@ -1,6 +1,6 @@
 +++
 aliases = []
-date = 2020-04-30T04:00:00Z
+date = 2020-05-05T04:00:00Z
 description = "A Pomodoro Timer in each new tab."
 github = "https://github.com/andyjgao/pomotab"
 images = ["/images/pomotab.png"]
