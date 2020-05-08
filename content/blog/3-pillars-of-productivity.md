@@ -48,7 +48,7 @@ Removing distractions is absolutely essential to being productive. It takes arou
 
 ### Work During Off-Hours
 
-If distractions are caused by the notifications ringing on our phone or the messages we have to respond to, working when everyone else is asleep drastically reduces the amount of minutes distracted by these hindrances. 
+If distractions are caused by the notifications ringing on our phone or the messages we have to respond to, working when everyone else is asleep drastically reduces the number of minutes wasted by these hindrances.
 
 When you wake up earlier (or sleep a lot later), you grant yourself hours of undisturbed focus where you can do [deep work](https://www.calnewport.com/books/deep-work/), a necessity when doing meaningful knowledge work.
 
