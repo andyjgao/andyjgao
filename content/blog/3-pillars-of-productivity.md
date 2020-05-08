@@ -11,9 +11,9 @@ During college, I experimented a lot with productivity systems. I tried waking u
 
 I've come to realize that no matter what program or product you use, there are general principles that can be applied to any system.
 
-My productivity strategy is based on three pillars: **Planning Ahead, Removing Distractions, and Maintaining Focus.**
+My productivity strategy is based on three pillars: **Plan Ahead, Remove Distractions and Maintain Focus.**
 
-## Planning Ahead
+## Plan Ahead
 
 Planning should really be called investing your time. Just as we invest money in the stock market to increase our wealth, we should invest minutes in planning to _save hours in the future._
 
@@ -61,7 +61,7 @@ Our surroundings have a certain amount of influence on the [psychological states
 
 This one is simple, just don't use it. When you work, put your phone away.  A general rule of thumb is to keep it out-of-sight and 7 seconds away.
 
-## Maintaining Focus
+## Maintain Focus
 
 Now that we've created a plan, and removed distractions, the final task is to maintain focus while we work.
 
