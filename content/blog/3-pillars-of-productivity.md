@@ -47,7 +47,7 @@ Removing distractions is absolutely essential to being productive. It takes arou
 
 ### Work During Off-Hours
 
-If distractions are caused by the notifications ringing on our phone or the messages we have to respond to, working when everyone else is asleep drastically reduces the number of minutes wasted by these hindrances.
+If distractions are due to notifications ringing on our phone and the messages we have to respond to, working when everyone else is asleep drastically reduces the number of minutes wasted by these hindrances.
 
 When you wake up earlier (or sleep a lot later), you grant yourself hours of undisturbed focus where you can do [deep work](https://www.calnewport.com/books/deep-work/), a necessity when doing meaningful knowledge work.
 
@@ -55,7 +55,7 @@ When you wake up earlier (or sleep a lot later), you grant yourself hours of und
 
 I used to work in the same room as my bed, and this made napping SO EASY. If I got stuck on a bug while programming or had writer's block, I would roll into bed and take a nap. This destroyed my productivity.
 
-Our surroundings have a certain amount of influence on the [psychological states and choices we make.](http://healthysleep.med.harvard.edu/healthy/getting/overcoming/tips) By physically separating where we work and relax, we are able to create a mental separation as well.
+Our surroundings have a certain amount of influence on the [psychological states and choices we make.](http://healthysleep.med.harvard.edu/healthy/getting/overcoming/tips)  Physically separating where we work and relax can help us also create a mental separation as well.
 
 ### No Phones
 
@@ -77,7 +77,7 @@ Once you become comfortable, you can increase the duration of each focus-session
 
 Currently, I use the [PomoTab](https://www.andyjgao.com/projects/pomotab/) Chrome Extension, but there are also plenty of other options online.
 
-And that's it. These three principles-- **Planning Ahead, Removing Distractions, and Maintaining Focus** -- have transformed my productivity and I hope yours as well.
+And that's it. By **Planning Ahead, Removing Distractions, and Maintaining Focus,** I have been able to accomplish far more in any given day.
 
 ***
 
