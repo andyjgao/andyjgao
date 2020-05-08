@@ -22,6 +22,7 @@ fields:
   name: images
   label: images
 pages:
+- content/blog/3-pillars-of-productivity.md
 - content/blog/key-takeaways-after-graduating-college.md
 - content/blog/the-compound-effect.md
 - content/blog/why-i-created-blog.md

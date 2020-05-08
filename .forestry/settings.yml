@@ -4,12 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: content/todo.md
-  label: Impossible List
-- type: document
-  path: content/privacy.md
-  label: Privacy Policy
 - type: directory
   path: content/notes
   label: Book Notes
@@ -30,16 +24,6 @@ sections:
   label: Pages
   create: all
   match: "*"
-- type: directory
-  path: content/homepage
-  label: Homepage
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/images
-  label: Images
-  create: all
-  match: "**/*"
 upload_dir: content/images
 public_path: "/images"
 front_matter_path: ''
