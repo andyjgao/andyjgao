@@ -10,7 +10,7 @@ title = "3 Pillars of Productivity"
 +++
 During college, I experimented a lot with productivity systems. I tried waking up at 4 am, using a bullet journal, etc. You name it, I've done it. 
 
-What I've come to realize is that no matter the program or product you use, there are general principles that can be applied to any system.
+I've come to realize is that no matter what program or product you use, there are general principles that can be applied to any system.
 
 My productivity strategy is based on three pillars: **Planning Ahead, Removing Distractions, and Maintaining Focus.**
 
