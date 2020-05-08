@@ -2,7 +2,6 @@
 aliases = []
 date = 2020-05-08T04:00:00Z
 description = "Planning, Removing Distractions, and Maintaining Focus"
-draft = true
 images = ["/images/3-pillars-of-productivity.jpg"]
 tags = ["Productivity"]
 title = "3 Pillars of Productivity"
@@ -66,6 +65,10 @@ This one is simple, just don't use it. When you work, put your phone away.  A ge
 
 Now that we've created a plan, and removed distractions, the final task is to maintain focus while we work. 
 
+### Meditation
+
+[Meditation](https://www.andyjgao.com/blog/why-i-love-meditation/) helps increase the grey-matter in our brain which is directly correlated to focus and attention. Through meditation, we can increase the duration of focus on an activity and produce higher quality work. 
+
 ### Pomodoro Technique
 
 The Pomodoro Technique is a system where you choose a task to focus on for 25 minutes before taking a 5-minute break. After 4 cycles, you take a longer 20-minute break. Then you rinse and repeat. I found this to be the most effective strategy for long-term focus because the breaks are long enough to help your mind recover from intense focus but short enough that you do not become distracted. 
@@ -73,7 +76,3 @@ The Pomodoro Technique is a system where you choose a task to focus on for 25 mi
 Once you become comfortable, you can increase the duration of each focus-session.
 
 Currently, I use the [PomoTab](https://www.andyjgao.com/projects/pomotab/) Chrome Extension, but there are also plenty of other options online.
-
-### Meditation
-
-[Meditation](https://www.andyjgao.com/blog/why-i-love-meditation/) helps increase the grey-matter in our brain which is directly correlated to focus and attention. Through meditation, we can increase the duration we maintain our focus on an activity.
