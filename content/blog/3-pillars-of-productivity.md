@@ -77,7 +77,7 @@ Once you become comfortable, you can increase the duration of each focus-session
 
 Currently, I use the [PomoTab](https://www.andyjgao.com/projects/pomotab/) Chrome Extension, but there are also plenty of other options online.
 
-And that's it. By **Planning Ahead, Removing Distractions, and Maintaining Focus,** I have been able to accomplish far more in any given day.
+And that's it. By **Planning Ahead, Removing Distractions, and Maintaining Focus,** you will be able to maximize what you can accomplish in any given day. 
 
 ***
 
