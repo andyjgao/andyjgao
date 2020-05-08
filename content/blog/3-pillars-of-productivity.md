@@ -1,14 +1,13 @@
 +++
 aliases = []
-date = ""
-description = ""
+date = 2020-05-08T04:00:00Z
+description = "Planning, Removing Distractions, and Maintaining Focus"
 draft = true
-images = []
-tags = []
+images = ["/images/3-pillars-of-productivity.jpg"]
+tags = ["Productivity"]
 title = "3 Pillars of Productivity"
 
 +++
-
 These are my 3 pillars to productivity:
 
 ## Planning Ahead
@@ -49,7 +48,7 @@ When I am working, I chuck my phone as far away as possible to reduce any tempta
 
 I used to work in the same room as my bed, and this made napping SO EASY. If I got stuck on a bug while programming or had writer's block, I would roll into bed and take a nap. This destroyed my productivity.
 
-Our surroundings have a certain amount of influence on the [psychological states and choices we make.](http://healthysleep.med.harvard.edu/healthy/getting/overcoming/tips) By physically separating where we work and relax, we are better able to create a mental distinction as well.
+Our surroundings have a certain amount of influence on the [psychological states and choices we make.](http://healthysleep.med.harvard.edu/healthy/getting/overcoming/tips) By physically separating where we work and relax, we are able to create a mental separation as well.
 
 Generally, a rule of thumb is to keep any distraction 7-seconds away.
 
