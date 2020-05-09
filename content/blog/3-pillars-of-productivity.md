@@ -49,7 +49,7 @@ Removing distractions is essential to being productive. It takes around [23 minu
 
 If distractions are due to notifications ringing on our phone and the messages we have to respond to, working when everyone else is asleep drastically reduces the number of minutes wasted by these hindrances.
 
-When you wake up earlier (or sleep a lot later), you grant yourself hours of undisturbed focus where you can do [deep work](https://www.calnewport.com/books/deep-work/) (meaningful work). 
+When you wake up earlier (or sleep a lot later), you grant yourself hours of undisturbed focus where you can do [deep work](https://www.calnewport.com/books/deep-work/) (meaningful work).
 
 #### Separate your Work Environment
 
@@ -63,7 +63,7 @@ This one is simple, just don't use it. When you work, put your phone away.  A ge
 
 ## Maintain Focus
 
-Now that we've created a plan, and removed distractions, the final task is to maintain focus while we work.
+Now that we've created a plan, and removed distractions, the final task is to maintain focus while we work. These are two tools I use to do so:
 
 #### Meditation
 
