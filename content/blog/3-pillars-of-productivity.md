@@ -27,7 +27,7 @@ Every Sunday, I spend roughly 30 minutes to plan for the week ahead. I start by 
 
 **_Note:_** _A Project can be replaced with a class, a course, or any large deliverable._
 
-Afterward, I compile all of my todos into a weekly task list and assigned it to different days throughout the week.
+Afterward, I compile all of my todos into a weekly task list and assign it to different days throughout the week.
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FYC6vbT4qMx.png?alt=media&token=3a40d44c-fe19-440f-a043-e2f66a3091e7)
 
