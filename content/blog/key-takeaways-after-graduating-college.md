@@ -7,7 +7,7 @@ tags = ["Education"]
 title = "Key Takeaways From College"
 
 +++
-It's been almost one full semester since I graduated college. And it has given me some proper time to reflect on my experience, what I've learned, and lessons I got of out it.
+It's been almost one full semester since I graduated college. And it has given me some proper time to reflect on my experience, what I've learned, and lessons I got out of it.
 
 Here are some key takeaways:
 
@@ -21,13 +21,13 @@ I started as a business major because I wanted to be an entrepreneur and thought
 
 The next semester, I enrolled in programming and math classes outside my major and found them insanely challenging yet exciting. This experience changed my perspective on learning. Everyone has different interests. Limiting yourself by following a curriculum is a terrible way to learn in college. **Instead, you should enroll in stimulating classes and let learning guide your curriculum.** (And if your curriculum doesn't allow it, transfer.)
 
-Taking exciting classes even at the risk of subpar grades has a far higher ROI than the alternative.
+Taking exciting classes --even at the risk of subpar grades-- has a far higher ROI than the alternative.
 
 ## Have a Strong Filter
 
 College is a time of opportunity. There are countless organizations and activities for every interest.
 
-"My advice for you is to do as many activities as possible" I remember a college senior say during orientation. I took the recommendation to heart, and as a freshman, joined 15 different clubs ranging from the Asian Student Association to University Poker Club. However, it was almost physically impossible to be engaged in each club while still focusing on school. After one semester, I was already overwhelmed. Homework started piling up, and I regularly missed club meetings.
+"My advice for you is to do as many activities as possible," I remember a college senior say during orientation. I took the recommendation to heart, and as a freshman, joined 15 different clubs ranging from the Asian Student Association to University Poker Club. However, it was almost physically impossible to be engaged in each club while still focusing on school. After one semester, I was already overwhelmed. Homework started piling up, and I regularly missed club meetings.
 
 The advice I received during orientation, I soon realized, was incomplete. You should do as many activities as possible _to find what interests you and focus on those._ There are so many opportunities in college. Having a strong filter becomes almost essential. I became much happier and productive after dropping out of activities I wasn't passionate about.
 
