@@ -21,7 +21,7 @@ I started as a business major because I wanted to be an entrepreneur and thought
 
 The next semester, I enrolled in programming and math classes outside my major and found them insanely challenging yet exciting. This experience changed my perspective on learning. Everyone has different interests. Limiting yourself by following a curriculum is a terrible way to learn in college. **Instead, you should enroll in stimulating classes and let learning guide your curriculum.** (And if your curriculum doesn't allow it, transfer.)
 
-Taking exciting classes --even at the risk of subpar grades-- has a far higher ROI than the alternative.
+Taking exciting classes -- even at the risk of subpar grades -- has a far higher ROI than the alternative.
 
 ## Have a Strong Filter
 
