@@ -9,7 +9,7 @@ title = "Spur your Growth with Feedback"
 +++
 **"I don't like the article. I think you should make it shorter."**
 
-Receiving feedback hurts. And even more so when you've poured your heart and soul into something. It never feels good when you're criticized for something you thought was perfect.
+Receiving negative feedback hurts. And even more so when you've poured your heart and soul into something. It never feels good when you're criticized for something you thought was perfect.
 
 However, it's the secret ingredient to accelerating your growth.
 
