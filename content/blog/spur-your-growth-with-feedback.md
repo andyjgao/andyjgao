@@ -25,9 +25,9 @@ Ask for feedback.
 
 [In my newsletter](https://mondaymail.substack.com/), I always ask for feedback. By doing this, you can collect a database of what people like and what people ignore. This will only help you because then you can create a better article/newsletter/product, which will attract a broader audience.
 
-You may be surprised at how effective bouncing off ideas with your friends can be. They often save you plenty of time by validating a thought before you've invested hours into it.
+You may be surprised at how effective bouncing off ideas with your friends can be. They save you a lot of time by validating a thought before you've invested hours into it.
 
-If people thought your proposition was terrible, it doesn't mean you should give up. Instead, ask why. What they say after this is _especially_ important to collect so you can improve.
+If people tell you your proposition was terrible, it doesn't mean you should give up. Instead, ask why. What they say after this is _especially_ important to collect so you can improve.
 
 Before you start a project, when you work on your project, and when you think you've completed your project, ask for feedback. I can't stress it enough.
 
@@ -37,9 +37,9 @@ This is the most crucial part of this entire process. There's no point in spendi
 
 After you've acquired a stockpile of data points, you can then start grouping by commonalities. If multiple people give you the same advice, chances are its something you need to fix and improve.
 
-But there will always be outliers as well. These are the criticisms you should assess with a grain of salt and see if it's appropriate. Sometimes it's a key insight that not many people have noticed. Other times its just haters trying to take you down.
+But there will always be outliers as well. These are the criticisms to assess with a grain of salt and see if it's appropriate. Sometimes it's a key insight not many people noticed. Other times its just haters trying to take you down.
 
-With the valuable feedback, you can now start making whatever project you're working on even better.
+With the valuable feedback, you can now start making the project you're working on even better.
 
 ## Iterate
 
