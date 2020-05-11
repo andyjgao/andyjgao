@@ -4,7 +4,7 @@ date = 2020-05-11T04:00:00Z
 description = "How I use feedback to exponentially accelerate growth. "
 images = ["/images/feedback.jpg"]
 tags = ["Productivity", "Lifestyle"]
-title = "Spur your Growth with Feedback"
+title = "Spur Growth with Feedback"
 
 +++
 **"I don't like the article. I think you should make it shorter."**
