@@ -47,9 +47,9 @@ Feedback doesn't end after one iteration. It's a continual process in the pursui
 
 Once you've received your first round of feedback, go produce more projects and accept more feedback. The faster you can repeat the cycle, the better.
 
-One way to increase the rate of feedback is to use the internet. By [creating online](https://www.andyjgao.com/blog/why-i-created-blog/), you can learn in public and create an engine of serendipity to receive feedback from people you don't even know. And even when you sleep too.
+One way to increase the rate of feedback is to use the internet. By [creating content online](https://www.andyjgao.com/blog/why-i-created-blog/), you can learn in public and create an engine of serendipity to receive feedback from people you don't even know. And even when you sleep too.
 
-I would never be the person I am today without the feedback I received and I'd love to hear yours as well. 
+I would never be the person I am today without the feedback I received and I'd love to hear yours as well.
 
 ***
 
