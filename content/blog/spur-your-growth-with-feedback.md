@@ -49,7 +49,7 @@ Once you've received your first round of feedback, go produce more projects and 
 
 One way to increase the rate of feedback is to use the internet. By [creating content online](https://www.andyjgao.com/blog/why-i-created-blog/), you can learn in public and create an engine of serendipity to receive feedback from people you don't even know. And even when you sleep too.
 
-I would never be the person I am today without the feedback and I'd love to hear yours as well.
+I would never be the person I am today without feedback and I'd love to hear yours as well.
 
 ***
 
