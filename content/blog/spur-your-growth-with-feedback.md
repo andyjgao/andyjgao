@@ -23,7 +23,7 @@ If people give you feedback on their own volition, that's great, but you will re
 
 Ask for feedback.
 
-[In my newsletter](https://mondaymail.substack.com/), I always ask for feedback. By doing this, I can collect a database of what people like and what people ignore. This informs me of how to create a better article/newsletter/product, which will attract a broader audience.
+[In my newsletter](https://mondaymail.substack.com/), I always ask for feedback. By doing this, I can collect a database of what people like and what people ignore. This informs me of how to make a better article/newsletter/product in the future.
 
 You may be surprised at how effective bouncing off ideas with your friends can be. They save you a lot of time by validating a thought before you've invested hours into it.
 
