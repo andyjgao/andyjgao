@@ -5,7 +5,7 @@ subheading = ""
 title = "Hey, I'm Andy."
 
 +++
-I like [reading](https://andyjgao.com/notes), fitness, making Youtube Videos, [traveling](https://itsamyandandy.xyz/), coming up with new business ideas, and **learning by doing**.
+I like [reading](https://andyjgao.com/notes), taking [notes](https://notes.andyjgao.com), fitness, making Youtube Videos, [traveling](https://itsamyandandy.xyz/), coming up with new business ideas, and **learning by doing**.
 
 I [write](https://www.andyjgao.com/blog/) about productivity, tech tips, entrepreneurship, personal finance, and more.
 
