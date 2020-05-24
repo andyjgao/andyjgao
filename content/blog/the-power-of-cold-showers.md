@@ -1,10 +1,10 @@
 +++
-aliases = []
+aliases = ["cold-showers"]
 date = 2020-05-24T04:00:00Z
-description = ""
+description = "Things I learned after 6 months of taking cold showers."
 draft = true
-images = []
-tags = []
+images = ["/images/shower.jpg"]
+tags = ["Lifestyle"]
 title = "The Power of Cold Showers"
 
 +++
@@ -15,15 +15,6 @@ But having decided to commit to it for 30 days, I carried on.
 And after the 30-day challenge was over, I continued. Not because someone forced me to, but because I wanted to.
 
 Today marks my 6-month journey into cold showers and I wanted to share some things I've learned.
-
-{{< rawhtml >}} 
-
-<video width="320" height="240" controls>  
-<source src="[https://i.imgur.com/ui0lzvQ.mp4](https://i.imgur.com/ui0lzvQ.mp4 "https://i.imgur.com/ui0lzvQ.mp4")" type="video/mp4">  
-Your browser does not support the video tag.  
-</video>
-
-{{< /rawhtml >}}
 
 ## Why cold showers?
 
