@@ -26,7 +26,7 @@ I first heard of cold showers through a YouTube video by Wim Hof. In it, he lays
 
 That seemed pretty cool so I gave it try.
 
-While these benefits were the reason I started taking cold showers, the mental improvements are the reasons I kept this habit up for so long. It's also what I want to focus on in this article. 
+While these benefits were the reason I started taking cold showers, the mental improvements are the reasons I kept this habit up for so long. It's also what I want to focus on in this article.
 
 Here's what I've noticed:
 
@@ -43,6 +43,8 @@ I discovered that all the excuses I had in my daily life were the same excuses t
 _It's going to be painful._
 
 _It's going to be uncomfortable._
+
+_Wow, I just did that._
 
 And if I was able to conquer the shower, why couldn't I conquer the day?
 
