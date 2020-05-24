@@ -40,7 +40,7 @@ summaryLength = 30
 [taxonomies]
 category = "categories"
 tag = "tags"
-
+    
 [params]
   author = "Andy J Gao"
   homepageImage = "/images/prof_pic.jpg"
@@ -88,3 +88,11 @@ tag = "tags"
     disableInlineCSS = true
 [outputs]
   home = ["HTML", "JSON"]
+
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = false
+  [[related.indices]]
+    name = "tags"
+    weight = "100"
