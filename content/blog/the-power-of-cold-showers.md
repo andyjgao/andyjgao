@@ -19,7 +19,7 @@ Today marks my 6-month journey into cold showers, and I wanted to share some thi
 
 ## Why cold showers?
 
-I first heard of cold showers through a YouTube video with Wim Hof, a Dutch extreme athlete who is known for feats in freezing temperatures. In it, he lays out the scientific evidence behind taking cold showers. He mentions cold showers will...
+I first heard of cold showers through a YouTube video by Wim Hof, a Dutch extreme athlete who is known for feats in freezing temperatures. In it, he lays out the scientific evidence behind taking cold showers. He mentions cold showers will...
 
 * [Increase the Immune System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025014/)
 * [Reduce Pain](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4049052/)
