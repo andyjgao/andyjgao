@@ -15,7 +15,6 @@ And after the 30-day challenge was over, I continued. Not because someone forced
 
 Today marks my 6-month journey into cold showers, and I wanted to share some things I've learned.
 
-
 ## Why cold showers?
 
 I first heard of cold showers through a YouTube video by Wim Hof. In it, he lays out the scientific evidence behind taking cold showers. He mentions cold showers will...
