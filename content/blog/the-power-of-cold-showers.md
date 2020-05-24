@@ -7,7 +7,7 @@ tags = ["Lifestyle"]
 title = "The Power of Cold Showers"
 
 +++
-The first time I tried a cold shower, I [screamed expletives](https://i.imgur.com/ui0lzvQ.mp4) loud enough to wake my roommates up. 
+The first time I tried a cold shower, I [screamed expletives](https://i.imgur.com/ui0lzvQ.mp4) loud enough to wake my roommates up.
 
 _F*ck! Who enjoys this sh_*_t? This is cold, painful, and uncomfortable._
 
@@ -68,3 +68,7 @@ I know, for sure, that I won't be stopping cold showers anytime soon. If you are
 If you do take on this challenge, let me know! I would love to hear your experience and thoughts.
 
 Taking cold showers washed away the mental barriers I've built up for myself, and I hope the same will happen for you.
+
+***
+
+_Thanks for reading! If you enjoyed what you read and want to receive future articles by email, subscribe to my_ [_Monday Mail Newsletter_](https://mondaymail.substack.com/) _or_ [_follow me on Twitter_](https://twitter.com/AndyJGao)_._
