@@ -8,7 +8,7 @@ tags = ["Lifestyle"]
 title = "The Power of Cold Showers"
 
 +++
-The first time I tried this, I screamed expletives loud enough to wake my roommates up. _F*ck! Who enjoys this sh_*_t? This is cold, painful, and uncomfortable._
+The first time I tried a cold shower, I screamed expletives loud enough to wake my roommates up. _F*ck! Who enjoys this sh_*_t? This is cold, painful, and uncomfortable._
 
 But having decided to commit to it for 30 days, I carried on.
 
