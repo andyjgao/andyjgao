@@ -1,7 +1,7 @@
 +++
 aliases = ["cold-showers"]
 date = 2020-05-24T04:00:00Z
-description = "Things I learned after 6 months of taking cold showers."
+description = "Things I learned after 6 months of cold showers."
 images = ["/images/shower.jpg"]
 tags = ["Lifestyle"]
 title = "The Power of Cold Showers"
