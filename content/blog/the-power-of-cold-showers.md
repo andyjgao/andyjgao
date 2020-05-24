@@ -44,7 +44,7 @@ _It's going to be painful._
 
 _It's going to be uncomfortable._
 
-_Wow, I just did that._
+Even so, every time I successfully completed the shower, I felt a sense of accomplishment.
 
 And if I was able to conquer the shower, why couldn't I conquer the day?
 
