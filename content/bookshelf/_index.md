@@ -1,5 +1,5 @@
 +++
-aliases = ["book-notes","book","books"]
+aliases = ["book-notes","notes","book","books"]
 title = "Bookshelf"
 author = "Andy Gao"
 tags = ["index"]
