@@ -1,18 +1,18 @@
 +++
 description = "FAQ for Book Notes"
 hidden = "true"
-title = "Notes FAQ"
+title = "Bookshelf FAQ"
 
 +++
-My book notes are always growing! As I finish reading each book, I will upload them to my [notes page](/notes/). The following is a guide and some commonly asked questions on how to use these notes.
+My book notes are always growing! When I finish a book, I will upload a note page [here](https://andyjgao.com/bookshelf). The following is a guide and some commonly asked questions on how to use these notes.
 
-### Why did you make a notes page?
+### Why did you make a bookshelf page?
 
-When I tell people I like to read, the first thing they ask for is book recommendations. By making this notes page, I will be able to simply refer them here.
+When I tell people I like to read, the first thing they ask for is book recommendations. By making this page, I will be able to simply refer them here.
 
-I also made this page mainly for myself as a way to consolidate all the insights I acquired while reading a book. Most times, when I read, I pick up a lot of **Just-In-Case information** that is hard to apply at the time of reading. However, this may change somewhere down the line and become **Just-In-Time information**. By creating these notes, I will be able to reference the insights I found in the past without having to reread a book.
+I also made this page mainly for myself as a way to consolidate all the insights I acquired while reading a book. Most times, when I read, I pick up a lot of **Just-In-Case information** that is hard to apply at the time of reading. However, this may change somewhere down the line and become **Just-In-Time information**. By creating book notes, I will be able to reference the insights I found in the past without having to reread a book.
 
-### How do I use these notes?
+### How do I use these book notes?
 
 My notes offer a glimpse into what a book contains by summarizing key points. I still strongly recommend you read the real book if you find my notes interesting, and instead, use it as a supplement to the real deal.
 
