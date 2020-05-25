@@ -6,7 +6,6 @@ amazon_paper = "https://amzn.to/2ZyVY86"
 book_author = "Don Norman"
 date = 2020-05-25T04:00:00Z
 description = "The book has a lot of novel concepts that will change the way you think about design and the everyday objects around you. It also touches upon the psychology of design and how to design with a more human-centered approach."
-draft = true
 images = ["/images/the-design-of-everyday-things.jpg"]
 rating = "3.5"
 tags = ["Design"]
