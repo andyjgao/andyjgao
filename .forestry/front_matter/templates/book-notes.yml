@@ -35,3 +35,5 @@ fields:
 - type: text
   name: amazon_paper
   label: amazon_paper
+pages:
+- content/bookshelf/the-design-of-every-day-things.md
