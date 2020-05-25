@@ -5,7 +5,7 @@ amazon_kindle = "https://amzn.to/3ejxzI4"
 amazon_paper = "https://amzn.to/2ZyVY86"
 book_author = "Don Norman"
 date = 2020-05-25T04:00:00Z
-description = ""
+description = "The book has a lot of novel concepts that will change the way you think about design and the everyday objects around you. It also touches upon the psychology of design and how to design with a more human-centered approach."
 draft = true
 images = ["/images/the-design-of-everyday-things.jpg"]
 rating = "3.5"
@@ -13,14 +13,17 @@ tags = ["Design"]
 title = "The Design of Every Day Things"
 
 +++
+## Review
+
+The book has a lot of novel concepts that will change the way you think about design and the everyday objects around you. It also touches upon the psychology of design and how to design with a more human-centered approach. Overall, a really good book to learn about design but unfortunately, at times, a bit redundant. For a book that focuses on design, it's ironic that the structure of the book is poorly designed. 
+
+## Notes
 
 ### The Psychopathology of Everyday Things
 
 Good Design requires both discoverability and understanding.
 
 * **Discoverability** is figuring out the possible actions of the product.
-
-
 * **Understanding** is how the product is supposed to be used.
 
 Everyone is a designer; all artificial things are designed-- whether it be the layout of your room or the mechanics of a microwave.
@@ -29,8 +32,6 @@ Everyone is a designer; all artificial things are designed-- whether it be the l
 
 * **Industrial design:** Optimizing function, value, and appearance of the product for both user and manufacturer
 * **Interaction design:** Focusing on usability and understanding of a product
-
-
 * **Experience design:** Focusing on emotional impact and enjoyment of a product
 
 Design requires both an understanding of technology and psychology. Engineers who design products often fall into the pitfall of designing products that are too logical and not accounting for human error. Good design accounts for human error and behavior
@@ -48,8 +49,6 @@ Design requires both an understanding of technology and psychology. Engineers wh
   * Signifiers are more important than Affordances because they communicate how to use the design
 * **Mapping:** the relationship between the elements of two sets of things. (eg: a switch & lights, the steering wheel & car wheel)
   * Spatial correspondence leads to immediate understanding (the left switch turns on the left light etc.)
-
-
 * **Feedback:** Communicating the results of an action (eg: a traffic light saying "Wait" to acknowledge you pressed the cross button)
   * Feedback must be
     * Immediate - delay will lose people's attention and waste resource as a result
@@ -62,7 +61,7 @@ Design requires both an understanding of technology and psychology. Engineers wh
 
 **Good Design requires good communication** especially from machine to human such as possible actions, what is happening, what will happen
 
-The **system image** is the explicit and implicit instructions of a product that helps users form a conceptual model. 
+The **system image** is the explicit and implicit instructions of a product that helps users form a conceptual model.
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FNamQV7yL2K?alt=media&token=145dc735-908d-46f9-bd18-9ad8d4a050e0)
 
@@ -92,12 +91,8 @@ A useful model to approximate cognition & emotion processes in 3 stages:
 
 * **Visceral: lizard brain** (subconscious) These are quick and subconscious responses learned through conditioning and unaffected by context (eg: fear of heights, love of chocolate)
   * When designing for Visceral, use aesthetics & first impressions
-
-
 * **Behavioral: learned brain** (subconscious) These are actions we learned but are unaware of underlying details (e.g. lifting a finger, kicking a ball)
   * When designing for Behavioral, match the expectation of actions. (eg: if you flip the on switch, it should turn on) Feedback is crucial for managing expectations.
-
-
 * **Reflective: conscious brain** The conscious cognition is where deep understanding and decision-making take place (e.g. reflecting on past events, assessing blame or responsibility)
   * When designing for Reflective, you need to create an overall positive experience (hardest to design and most abstract)
 * **All three levels of cognition are intertwined**: a good design for behavioral levels lead to strong emotional responses that will affect the reflective level
@@ -128,8 +123,6 @@ Precise behavior can arise from imprecise knowledge. How?
 * **Natural constraints** (physical limitations of possible behavior) and cultural constraints (learned restrictions on behavior) that exist in the world which limit choice
 * **Knowledge in head & world help guide behavior**
   * In the head: knowledge memorized (STOP sign means stop)
-
-
   * In the world: intuitive knowledge based on hints in the environment through signifiers, natural mappings, constraints (left light switch turns on left light)
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FjxFmVYa9w4.png?alt=media&token=88e1ff46-3a9b-4bb0-9259-426e17fca1ce)
@@ -147,11 +140,7 @@ However, precision is required when mental models already exist -- until user ad
 **Long-term memory** takes time & effort to remember and is split between:
 
 * **Arbitrary memory:** memorization of knowledge with no underlying structure (e.g. alphabet)
-
-
 * **Meaningful memory:** memorization of knowledge with structure and is a lot easier to remember (pulling left handlebar to signal left)
-
-
 * **Design implications:** provide meaningful structure will put knowledge in the world and make memory unnecessary
 
 Simplified model is key for a successful application and user adoption because they allow us to remember and understand quicker.
@@ -176,8 +165,6 @@ There are 4 types of constraints:
   * Example: A circular hole physically constrains the action of inserting a square tube.
 * **Cultural** Caused by social norms
   * Example: A person is culturally constrained from sitting in an elevator
-
-
 * **Semantic** Caused by the context of a given situation
   * Example: A person is semantically constrained to face forward when riding a motorcycle
 * **Logical** Caused by logical deduction of proper actions.
@@ -224,51 +211,27 @@ Slips can be:
 
 * **Capture Slips:** A more frequently performed activity accidentally replaces a desired action
   * Example: When counting cards, you count to 13 instead of listing out the face cards
-
-
   * To design against this: sequences should differ from the start of a process
-
-
 * **Description-similarity Slips:** an action is erroneously performed on a similar object.
   * Example: Pouring salt into coffee instead of sugar
-
-
   * To design against this: Objects with different purposes must be easily distinguishable
-
-
 * **Memory-Lapse Slips:** the wrong/lack of action is performed due to memory failure
   * Example: Forgetting a credit card in ATM after withdrawing money
-
-
   * To design against this: use forcing functions, minimize steps between plan and goal, and provide vivid reminders.
-
-
 * **Mode-Error Slips:** an action is performed on the wrong mode
   * Example: Turning off the wrong system in a multi-purpose remote
-
-
   * To design against this: remove modes when possible and when they exist, make the mode obvious
 
 Mistakes can be:
 
 * **Rule-based mistakes:** the wrong rule is used in a situation either due to improper classification of goal, faulty rules, or improper evaluation of rules
   * Example: Many people died in a nightclub when a fire erupted because the guards were instructed to not let people out if they did not pay for drinks. (Faulty rules)
-
-
   * To design against this: Provide as much guidance to ensure the current state is displayed in an easy to understand format (usually graphical).
-
-
 * **Knowledge-based mistakes:** Incorrect diagnosis of the situation due to erroneous or incomplete knowledge
   * Example: Assembling a table incorrectly.
-
-
   * To design against this: Help users build as good of a conceptual model as possible
-
-
 * **Memory-Lapse mistakes:** forgetting goal or plan of action usually caused by sudden interruption during activity.
   * Example: Boiling water to make tea but an interruption causes you to forget why you are boiling water.
-
-
   * To design against this: Provide continuously available information throughout the duration of a task.
 
 A major source of errors come from interruptions. The cost of interruptions is far greater than the loss of time required to deal with the interruption. The cost of resuming interrupted activity must also be factored.
@@ -291,11 +254,7 @@ Two Tool for better Design Thinking:
 
 * **The Double Diamond Model of Design**
   * The first half focuses on finding the right problem, the second half focuses on finding the right solution.
-
-
   * This model ensures proper exploration of problems & solutions but still proposes a convergence deadline for progress.![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fandyjgao%2FQ12r1Y6S3Z.png?alt=media&token=77fabaa3-8c1b-400a-9778-c244ab52c0cc)
-
-
 * **The Human-Centered Design Process:**
   1. **Observe**
      * Understanding the behavior and needs of a potential customer in order to tackle the correct problem
