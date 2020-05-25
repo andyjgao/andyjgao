@@ -5,6 +5,18 @@ fields:
 - type: list
   name: aliases
   label: aliases
+- type: text
+  name: amazon_audio
+  label: amazon_audio
+- type: text
+  name: amazon_kindle
+  label: amazon_kindle
+- type: text
+  name: amazon_paper
+  label: amazon_paper
+- type: text
+  name: book_author
+  label: book_author
 - type: datetime
   name: date
   label: date
@@ -14,24 +26,12 @@ fields:
 - type: image_gallery
   name: images
   label: images
+- type: text
+  name: rating
+  label: rating
 - type: list
   name: tags
   label: tags
 - type: text
   name: title
   label: title
-- type: text
-  name: amazon_paper
-  label: amazon_paper
-- type: text
-  name: amazon_kindle
-  label: amazon_kindle
-- type: text
-  name: amazon_audio
-  label: amazon_audio
-- type: text
-  name: rating
-  label: rating
-- type: text
-  name: book_author
-  label: book_author
