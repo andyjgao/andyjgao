@@ -14,7 +14,7 @@ title = "The Design of Everyday Things"
 +++
 ## Review
 
-The book has a lot of novel concepts that will change the way you think about design and the everyday objects around you. It also touches upon the psychology of design and how to design with a more human-centered approach. Overall, a really good book to learn about design but unfortunately, at times, a bit redundant. For a book that focuses on design, it's ironic that the structure of the book is poorly designed. 
+The book has a lot of novel concepts that will change the way you think about the everyday objects around you. It also touches upon the psychology and human-centered approaches of design. Overall, a really intriguing book but unfortunately, a bit redundant. For a book that focuses on design, it's ironic how poorly it was structured and designed at times.
 
 ## Notes
 

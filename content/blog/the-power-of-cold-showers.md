@@ -51,7 +51,7 @@ And if I was able to conquer the shower, why couldn't I conquer the day?
 
 #### Less Urges for Instant Gratification
 
-Think for a second what it is like when you take a warm shower. It feels relaxing and quite frankly, amazing after a long, stressful day. But once you exit the shower, you shiver frigidly and look for the nearest towel to wrap yourself.
+Think for a second what it is like when you take a warm shower. It feels relaxing and quite frankly, amazing after a long, stressful day. But once you exit the shower, you shiver frigidly looking for the nearest towel to wrap yourself with.
 
 The inverse is true when you take a cold shower. During the moment, it feels like hell. There's nothing you want to do but leave. Yet, if you stay in there long enough (5 minutes minimum), your body is on fire when you get out. And this warmth continues for another 30 minutes or so.
 
@@ -63,7 +63,9 @@ Whether it's directly due to taking cold showers or not, I've observed that, at 
 
 I know, for sure, that I won't be stopping cold showers anytime soon. If you are interested, here is my challenge to you:
 
-**For 30 days, turn the knob on your shower from hot to cold.**
+**For 30 days, turn the knob on your shower from hot to cold.** 
+
+**Start off with 30 seconds in the cold. Then, gradually increase the duration of your showers.** 
 
 If you do take on this challenge, let me know! I would love to hear your experience and thoughts.
 
