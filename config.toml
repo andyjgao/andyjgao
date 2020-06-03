@@ -43,7 +43,7 @@ tag = "tags"
     
 [params]
   author = "Andy J Gao"
-  homepageImage = "/images/prof_pic.jpg"
+  homepageImage = "/images/prof_pic.png"
   share = false
   showLanguageSwitcher = false
 
