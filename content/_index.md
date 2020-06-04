@@ -5,7 +5,7 @@ subheading = ""
 title = "Hey, I'm Andy."
 
 +++
-I'm passionate about technology, entrepreneurship, and the future of education.
+I'm passionate about technology, entrepreneurship, and education.
 
 I like [reading](https://andyjgao.com/bookshelf), taking [notes](https://notebook.andyjgao.com), fitness, making Youtube Videos, [traveling](https://itsamyandandy.xyz/), coming up with new business ideas, and **learning by doing**.
 
