@@ -22,7 +22,7 @@ I use [Roam Research](https://roamresearch.com/) and the zettelkasten method des
 
 ### What do the ratings mean?
 
-All opinions expressed are solely my own and do not express the views or opinions of anyone else who read this book. I will only post items 3 and above so as to not waste anyone's time.
+All opinions expressed are solely my own and do not express the views or opinions of anyone else who read this book. I will only post items with a rating of 3 and above so as to not waste anyone's time.
 
 **5-** This is a life-changing book that **YOU MUST READ**. I recommend this book to everyone and their mothers.
 
