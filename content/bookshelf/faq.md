@@ -22,7 +22,7 @@ I use [Roam Research](https://roamresearch.com/) and the zettelkasten method des
 
 ### What do the ratings mean?
 
-All opinions expressed are solely my own and do not express the views or opinions of anyone else who read this book.
+All opinions expressed are solely my own and do not express the views or opinions of anyone else who read this book. I will only post items I thought were 3 and above so as to not waste anyone's time.
 
 **5-** This is a life-changing book that **YOU MUST READ**. I recommend this book to everyone and their mothers.
 
@@ -30,9 +30,9 @@ All opinions expressed are solely my own and do not express the views or opinion
 
 **3-** This book is simply average. The book has valuable insights but may lack in delivery.
 
-**2-** This book lacks substance. There may be a few valuable insights.
+**~~2-~~** ~~This book lacks substance. There may be a few valuable insights.~~
 
-**1-** This book is terrible. I either did not finish or will never read again.
+**~~1-~~** ~~This book is terrible. I either did not finish or will never read again.~~
 
 ### Does this cost anything?
 
