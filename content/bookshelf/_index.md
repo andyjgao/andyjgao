@@ -6,10 +6,10 @@ tags = ["index"]
 title = "Bookshelf"
 
 +++
-Welcome to my bookshelf!
+Welcome to my bookshelf! (and more)
 
-I enjoy reading in my free time, but I've come to realize that I forget what I read after 2-3 weeks. Thus, I've decided to take notes of every book I read from now on.
+The internet is a large place and we waste a lot of time finding quality information.
 
-Drawing from the inspirations of [Derek Sivers](https://sivers.org/book), [Nat Eliason](https://www.nateliason.com/notes), and [Dean Yeong](https://deanyeong.com/reading-notes/), I want to publicize my notes as well. Below, you will find a **review**, a **rating**, and **important highlights** pulled from each book.
+The following is a collection of literature notes I've taken on books, podcasts, and articles that have resonated with me.
 
 Questions on how to use these notes? Check the [FAQ](/bookshelf/faq).
