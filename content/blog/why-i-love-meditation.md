@@ -5,7 +5,7 @@ description = "Are you reading this article while you should be working? Here's 
 images = ["/images/meditation.jpg", "/images/meditation.jpg.jfif"]
 tags = ["Lifestyle", "Productivity"]
 title = "Why I Love Meditation"
-
+first = "true"
 +++
 Are you reading this article while you should be working? Distracted by your phone again while studying?
 
