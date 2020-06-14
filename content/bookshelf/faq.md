@@ -1,6 +1,7 @@
 +++
 description = "FAQ for Book Notes"
-hidden = "true"
+draft = true
+hidden = true
 title = "Bookshelf FAQ"
 
 +++
