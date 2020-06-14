@@ -17,8 +17,8 @@ summaryLength = 30
   #   url = "/"
   #   weight = 1
    [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
+    identifier = "writing"
+    name = "Writings"
     url = "/blog/"
     weight = 1
   [[menu.main]]
