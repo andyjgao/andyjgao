@@ -7,11 +7,7 @@ noindex = "true"
 title = "Support"
 
 +++
-_I see you have stumbled upon this page._
-
-This page is not accessible via any direct links because I don't feel right asking for anything anytime soon.
-
-However, if you choose to, here are some ways you can support me.
+Hi, Thanks for visiting this page! If you enjoyed any of the content you’ve read on this site and would like to support my various endeavors, there’s a few ways you can do so.
 
 ## Buy Me a Burrito
 
